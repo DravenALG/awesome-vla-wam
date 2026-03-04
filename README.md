@@ -19,7 +19,7 @@
 - 📚 [Definition](#definition)
 - 📖 [Survey](#survey)
 - 🧠 [General VLA](#general-vla)
--  � [World Action Models in VLA](#world-action-models-in-vla)
+- 🌍 [World Action Models in VLA](#world-action-models-in-vla)
 - 💡 [VLA with Understanding and Reasoning](#vla-with-understanding-and-reasoning)
 - 🌐 [VLA with 3D/4D Modelling](#vla-with-3d4d-modelling)
 - 🔥 [VLA with Reinforcement Learning](#vla-with-reinforcement-learning)
