@@ -43,7 +43,7 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 - [⭐️] **RT-2**, RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [![arXiv](https://img.shields.io/badge/arXiv-2307.15818-b31b1b.svg)](https://arxiv.org/abs/2307.15818) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics-transformer2.github.io)
 
 ## WAM Definition
-In short, WAM models are a type of robotics policy that inherits the pretrained video generation models' rich spatialtemporal understanding from the world, to offer strong generalizable abilities for general-purpose, language-conditioned robot policies. We can see the great work, DreamZero, who formally proposes the name World Action Model, for details.
+In short, WAM models are a type of robotics policy that inherits the pretrained video generation models' rich spatialtemporal understanding from the world, to offer strong generalizable abilities for general-purpose, language-conditioned robot policies. We consider this as a highly potential branch for buiding general robot policies. We can see the great work, DreamZero, who formally proposes the name World Action Model, for details.
 
 - [⭐️] **DreamZero**, World Action Models are Zero-shot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2602.15922-b31b1b.svg)](https://arxiv.org/abs/2602.15922) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamzero0.github.io)
 
