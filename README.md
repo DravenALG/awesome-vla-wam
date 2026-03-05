@@ -1,13 +1,13 @@
 <div align="center">
 
-# 🤖 Awesome VLA
+# 🤖 Awesome VLA & WAM
 
-**📜 A Curated List of Vision-Language-Action (VLA) Research** </br>
+**📜 A Curated List of Vision-Language-Action (VLA) and World Action Models (WAM) Research and Beyond** </br>
 
 **🚀 Welcome to follow our exploratory work on VLA, [VLANeXt](https://github.com/DravenALG/VLANeXt).**
 
 <p align="center">
-  <img src="awesome-vla.jpg" alt="Awesome VLA" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
+  <img src="awesome-vla-wam.jpg" alt="Awesome VLA & WAM" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
 </p>
 
 *Photo Credit: [Gemini-Nano-Banana🍌](https://aistudio.google.com/models/gemini-3-pro-image)*.
@@ -16,17 +16,18 @@
 
 ## Overview
 - 🎯 [Aim](#aim)
-- 📚 [Definition](#definition)
-- 📖 [Survey](#survey)
+- 📚 [VLA Definition](#vla-definition) | [WAM Definition](#wam-definition)
+- 🔍 [Survey](#survey)
 - 🧠 [General VLA](#general-vla)
-- 🌍 [World Action Models in VLA](#world-action-models-in-vla)
+- 🌍 [World Modeling in VLA](#world-action-models-in-vla)
 - 💡 [VLA with Understanding and Reasoning](#vla-with-understanding-and-reasoning)
 - 🌐 [VLA with 3D/4D Modelling](#vla-with-3d4d-modelling)
 - 🔥 [VLA with Reinforcement Learning](#vla-with-reinforcement-learning)
-- 🧪 [VLA with Latent Actions](#vla-with-latent-actions)
 - 🪶 [Efficient VLA](#efficient-vla)
+- 🧪 [VLA with Latent Actions](#vla-with-latent-actions)
 - 🧭 [Domain-Specific VLA (e.g., Humanoid, Tactile)](#domain-specific-vla-eg-humanoid-tactile)
 - 🧷 [Other Topics in VLA](#other-topics-in-vla)
+- 🎬 [World Action Models](#world-action-models)
 - 🦾 [Traditional Policies](#traditional-policies)
 - 💾 [Datasets](#datasets)
 - 📊 [Benchmark / Environment](#benchmark--environment)
@@ -34,12 +35,17 @@
 - 🖥️ [Hardware](#hardware)
 
 ## Aim
-This is a curated list of VLA research that systematically organizes various topics within the field. It will be continuously updated and refined, with the goal of clarifying the research context for scholars in the VLA domain. If you have any new papers worth adding, please feel free to push and join us in maintaining a high-quality VLA list.
+This is a curated list of VLA and WAM research, systematically organized to provide a comprehensive view of the recent advance in robotics foundation models. It will be continuously updated and refined, with the goal of clarifying the research context for scholars in the domain of robotics foundation models. If you have any new papers worth adding, please feel free to push or raise an issue. Join us in maintaining a high-quality VLA & WAM & More list.
 
-## Definition
-In short, VLA models are a type of robotics policy that inherts the pretrained VLMs’ rich language grounding and visual understanding abilities to offter a scalable route toward general-purpose, language-conditioned robot policies. We can trace the origin and formal definition of the VLA to the work TR-2.
+## VLA Definition
+In short, VLA models are a type of robotics policy that inherts the pretrained VLMs’ rich language grounding and visual understanding abilities to offter a scalable route toward general-purpose, language-conditioned robot policies. We can trace the origin and formal definition of the VLA to the work RT-2.
 
 - [⭐️] **RT-2**, RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [![arXiv](https://img.shields.io/badge/arXiv-2307.15818-b31b1b.svg)](https://arxiv.org/abs/2307.15818) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics-transformer2.github.io)
+
+## WAM Definition
+In short, WAM models are a type of robotics policy that inherits the pretrained video generation models' rich spatialtemporal understanding from the world, to offer strong generalizable abilities for general-purpose, language-conditioned robot policies. We can see the great work, DreamZero, who formally proposes the name World Action Model, for details.
+
+- [⭐️] **DreamZero**, World Action Models are Zero-shot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2602.15922-b31b1b.svg)](https://arxiv.org/abs/2602.15922) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamzero0.github.io)
 
 ## Survey
 - Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges. [![arXiv](https://img.shields.io/badge/arXiv-2505.04769-b31b1b.svg)](https://arxiv.org/abs/2505.04769) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/Applied-AI-Research-Lab/Vision-Language-Action-Models-Concepts-Progress-Applications-and-Challenges)
@@ -48,13 +54,13 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 
 ## General VLA
 
-- **SimVLA** SimVLA: A Simple VLA Baseline for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2602.18224-b31b1b.svg)](https://arxiv.org/abs/2602.18224) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://frontierrobo.github.io/SimVLA/)
+- **SimVLA**, SimVLA: A Simple VLA Baseline for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2602.18224-b31b1b.svg)](https://arxiv.org/abs/2602.18224) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://frontierrobo.github.io/SimVLA/)
 
-- **ABot-M0** ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning. [![arXiv](https://img.shields.io/badge/arXiv-2602.11236-b31b1b.svg)](https://arxiv.org/abs/2602.11236) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://amap-cvlab.github.io/ABot-Manipulation/)
+- **ABot-M0**, ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning. [![arXiv](https://img.shields.io/badge/arXiv-2602.11236-b31b1b.svg)](https://arxiv.org/abs/2602.11236) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://amap-cvlab.github.io/ABot-Manipulation/)
 
-- [⭐️] **Lingbot-VLA** A Pragmatic VLA Foundation Model. [![arXiv](https://img.shields.io/badge/arXiv-2601.18692-b31b1b.svg)](https://arxiv.org/abs/2601.18692) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-vla/)
+- [⭐️] **Lingbot-VLA**, A Pragmatic VLA Foundation Model. [![arXiv](https://img.shields.io/badge/arXiv-2601.18692-b31b1b.svg)](https://arxiv.org/abs/2601.18692) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-vla/)
 
-- **VLM4VLA** VLM4VLA: Revisiting Vision-Language-Models in Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2601.03309-b31b1b.svg)](https://arxiv.org/abs/2601.03309) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cladernyjorn.github.io/VLM4VLA.github.io/)
+- **VLM4VLA**, VLM4VLA: Revisiting Vision-Language-Models in Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2601.03309-b31b1b.svg)](https://arxiv.org/abs/2601.03309) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cladernyjorn.github.io/VLM4VLA.github.io/)
 
 - Emergence of Human to Robot Transfer in Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2512.22414-b31b1b.svg)](https://arxiv.org/abs/2512.22414) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/research/human_to_robot)
 
@@ -95,10 +101,6 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 
 ## World Action Models in VLA
 
-- [⭐️] **DreamZero**, World Action Models are Zero-shot Policie. [![arXiv](https://img.shields.io/badge/arXiv-2602.15922-b31b1b.svg)](https://arxiv.org/abs/2602.15922) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamzero0.github.io)
-
-- [⭐️] **Cosmos Policy**, Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning. [![arXiv](https://img.shields.io/badge/arXiv-2601.16163-b31b1b.svg)](https://arxiv.org/abs/2601.16163) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/dir/cosmos-policy/)
-
 - **MM-ACT**, MM-ACT: Learn from Multimodal Parallel Generation to Act. [![arXiv](https://img.shields.io/badge/arXiv-2512.00975-b31b1b.svg)](https://arxiv.org/abs/2512.00975) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/HHYHRHY/MM-ACT)
 
 - **RynnVLA-002**, RynnVLA-002: A Unified Vision-Language-Action and World Model. [![arXiv](https://img.shields.io/badge/arXiv-2511.17502-b31b1b.svg)](https://arxiv.org/abs/2511.17502) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/alibaba-damo-academy/RynnVLA-002)
@@ -117,7 +119,7 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 
 ## VLA with Understanding and Reasoning
 
-- **GenieReasoner** Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training. [![arXiv](https://img.shields.io/badge/arXiv-2512.24125-b31b1b.svg)](https://arxiv.org/abs/2512.24125) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://geniereasoner.github.io/GenieReasoner/)
+- **GenieReasoner**, Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training. [![arXiv](https://img.shields.io/badge/arXiv-2512.24125-b31b1b.svg)](https://arxiv.org/abs/2512.24125) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://geniereasoner.github.io/GenieReasoner/)
 
 - **MolmoAct**, MolmoAct: Action Reasoning Models that can Reason in Space. [![arXiv](https://img.shields.io/badge/arXiv-2508.07917-b31b1b.svg)](https://arxiv.org/abs/2508.07917) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://allenai.org/blog/molmoact)
 
@@ -152,7 +154,7 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 
 - [⭐️] **ThinkAct**, ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning. [![arXiv](https://img.shields.io/badge/arXiv-2507.16815-b31b1b.svg)](https://arxiv.org/abs/2507.16815)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://jasper0314-huang.github.io/thinkact-vla/)
 
-- **TGRPO**, TGRPO :Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization. [![arXiv](https://img.shields.io/badge/arXiv-2506.08440-b31b1b.svg)](https://arxiv.org/abs/2506.08440)
+- **TGRPO**, TGRPO: Fine-tuning Vision-Language-Action Model via Trajectory-wise Group Relative Policy Optimization. [![arXiv](https://img.shields.io/badge/arXiv-2506.08440-b31b1b.svg)](https://arxiv.org/abs/2506.08440)
 
 - **VLA-RL**, VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning. [![arXiv](https://img.shields.io/badge/arXiv-2505.18719-b31b1b.svg)](https://arxiv.org/abs/2505.18719)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/GuanxingLu/vlarl)
 
@@ -206,6 +208,19 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 - **TraceVLA**, TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies. [![arXiv](https://img.shields.io/badge/arXiv-2412.10345-b31b1b.svg)](https://arxiv.org/abs/2412.10345) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://tracevla.github.io)
 
 
+## World Action Models
+
+- [⭐️] **DreamZero**, World Action Models are Zero-shot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2602.15922-b31b1b.svg)](https://arxiv.org/abs/2602.15922) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamzero0.github.io)
+
+- [⭐️] **Cosmos Policy**, Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning. [![arXiv](https://img.shields.io/badge/arXiv-2601.16163-b31b1b.svg)](https://arxiv.org/abs/2601.16163) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/dir/cosmos-policy/)
+
+- **GR-2**, GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2410.06158-b31b1b.svg)](https://arxiv.org/abs/2410.06158) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gr2-manipulation.github.io)
+
+- [⭐️] **GR-1**, Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2312.13139-b31b1b.svg)](https://arxiv.org/abs/2312.13139) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gr1-manipulation.github.io)
+
+- **UniPi**, Learning Universal Policies via Text-Guided Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2302.00111-b31b1b.svg)](https://arxiv.org/abs/2302.00111) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://universal-policy.github.io/unipi/)
+
+
 ## Traditional Policies
 
 - **State-free Policy**, Do You Need Proprioceptive States in Visuomotor Policies?. [![arXiv](https://img.shields.io/badge/arXiv-2509.18644-b31b1b.svg)](https://arxiv.org/abs/2509.18644) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://statefreepolicy.github.io)
@@ -213,8 +228,6 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 - [⭐️] **UVAM**, Unified Video Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2503.00200-b31b1b.svg)](https://arxiv.org/abs/2503.00200) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://unified-video-action-model.github.io)
 
 - **Seer**, Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2412.15109-b31b1b.svg)](https://arxiv.org/abs/2412.15109) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/InternRobotics/Seer)
-
-- **GR-2**, GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2410.06158-b31b1b.svg)](https://arxiv.org/abs/2410.06158) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gr2-manipulation.github.io)
 
 - [⭐️] **RDT-1B**, RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2410.07864-b31b1b.svg)](https://arxiv.org/abs/2410.07864) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rdt-robotics.github.io/rdt-robotics/)
 
@@ -224,23 +237,17 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 
 - **MDT**, Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals. [![arXiv](https://img.shields.io/badge/arXiv-2407.05996-b31b1b.svg)](https://arxiv.org/abs/2407.05996) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://intuitive-robots.github.io/mdt_policy/)
 
-
 - [⭐️] **Octo**, Octo: An Open-Source Generalist Robot Policy. [![arXiv](https://img.shields.io/badge/arXiv-2405.12213-b31b1b.svg)](https://arxiv.org/abs/2405.12213) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://octo-models.github.io)
 
 - **ManiGaussian**, ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2403.08321-b31b1b.svg)](https://arxiv.org/abs/2403.08321) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://guanxinglu.github.io/ManiGaussian/)
 
 - [⭐️] **DP3**, 3D Diffusion Policy: Generalizable Visuomotor Policy Learning via Simple 3D Representations. [![arXiv](https://img.shields.io/badge/arXiv-2403.03954-b31b1b.svg)](https://arxiv.org/abs/2403.03954) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://3d-diffusion-policy.github.io)
 
-- [⭐️] **GR-1**, Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2312.13139-b31b1b.svg)](https://arxiv.org/abs/2312.13139) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gr1-manipulation.github.io)
-
 - [⭐️] **VoxPoser**, VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models. [![arXiv](https://img.shields.io/badge/arXiv-2307.05973-b31b1b.svg)](https://arxiv.org/abs/2307.05973) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://voxposer.github.io)
 
 - **RPT**, Robot Learning with Sensorimotor Pre-training. [![arXiv](https://img.shields.io/badge/arXiv-2306.10007-b31b1b.svg)](https://arxiv.org/abs/2306.10007) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotic-pretrained-transformer.github.io)
 
-
 - [⭐️] **Diffusion Policy**, Diffusion Policy: Visuomotor Policy Learning via Action Diffusion. [![arXiv](https://img.shields.io/badge/arXiv-2303.04137-b31b1b.svg)](https://arxiv.org/abs/2303.04137) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://diffusion-policy.cs.columbia.edu)
-
-- **UniPi**, Learning Universal Policies via Text-Guided Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2302.00111-b31b1b.svg)](https://arxiv.org/abs/2302.00111) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://universal-policy.github.io/unipi/)
 
 - [⭐️] **RT-1**, RT-1: Robotics Transformer for Real-World Control at Scale. [![arXiv](https://img.shields.io/badge/arXiv-2212.06817-b31b1b.svg)](https://arxiv.org/abs/2212.06817) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://robotics-transformer1.github.io)
 
@@ -289,13 +296,11 @@ In short, VLA models are a type of robotics policy that inherts the pretrained V
 
 - [⭐️] **CALVIN**, CALVIN: A Benchmark for Language-Conditioned Policy Learning for Long-Horizon Robot Manipulation Tasks. [![arXiv](https://img.shields.io/badge/arXiv-2112.03227-b31b1b.svg)](https://arxiv.org/abs/2112.03227) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://calvin.cs.uni-freiburg.de)
 
-- [⭐️] **SAPIEN**, SAPIEN: A SimulAted Part-based Interactive ENvironment. [![arXiv](https://img.shields.io/badge/arXiv-2003.08515-b31b1b.svg)](https://arxiv.org/abs/2003.08515) (https://sapien.ucsd.edu)
+- [⭐️] **SAPIEN**, SAPIEN: A SimulAted Part-based Interactive ENvironment. [![arXiv](https://img.shields.io/badge/arXiv-2003.08515-b31b1b.svg)](https://arxiv.org/abs/2003.08515) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sapien.ucsd.edu)
 
-- [⭐️] **RLBench**, RLBench: The Robot Learning Benchmark & Learning Environment.[![arXiv](https://img.shields.io/badge/arXiv-1909.12271-b31b1b.svg)](https://arxiv.org/abs/1909.12271) [![Website](https://img.shields.io/badge/Website-Link-blue)] [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/rlbench)
+- [⭐️] **RLBench**, RLBench: The Robot Learning Benchmark & Learning Environment. [![arXiv](https://img.shields.io/badge/arXiv-1909.12271-b31b1b.svg)](https://arxiv.org/abs/1909.12271) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/rlbench)
 
 ## Physics Engine
-
-- [⭐️] **Cosmos (neural engine)**, Cosmos World Foundation Model Platform for Physical AI  [![arXiv](https://img.shields.io/badge/arXiv-2501.03575-b31b1b.svg)](https://arxiv.org/abs/2501.03575) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/nvidia-cosmos/cosmos-predict1)
 
 - [⭐️] **PhysX**, [![Website](https://img.shields.io/badge/Website-Link-blue)](https://developer.nvidia.com/physx-sdk)
 
