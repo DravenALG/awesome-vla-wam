@@ -254,6 +254,10 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **Seer**, Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2412.15109-b31b1b.svg)](https://arxiv.org/abs/2412.15109) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/InternRobotics/Seer)
 
+- **AVDC**, Learning to Act from Actionless Videos through Dense Correspondences. [![arXiv](https://img.shields.io/badge/arXiv-2310.08576-b31b1b.svg)](https://arxiv.org/abs/2310.08576) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flow-diffusion.github.io)
+
+- **UniSim**, Learning Interactive Real-World Simulators. [![arXiv](https://img.shields.io/badge/arXiv-2310.06114-b31b1b.svg)](https://arxiv.org/abs/2310.06114) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://universal-simulator.github.io/unisim/)
+
 - **DayDreamer**, DayDreamer: World Models for Physical Robot Learning. [![arXiv](https://img.shields.io/badge/arXiv-2206.14176-b31b1b.svg)](https://arxiv.org/abs/2206.14176) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://danijar.com/project/daydreamer/)
 
 - [⭐️] **Diffusers**, Planning with Diffusion for Flexible Behavior Synthesis. [![arXiv](https://img.shields.io/badge/arXiv-2205.09991-b31b1b.svg)](https://arxiv.org/abs/2205.09991) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://diffusion-planning.github.io)
