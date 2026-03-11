@@ -216,6 +216,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **DreamGen**, DreamGen: Unlocking Generalization in Robot Learning through Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2505.12705-b31b1b.svg)](https://arxiv.org/abs/2505.12705) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/dreamgen/)
 
+- **Inverse Probabilistic Adaptation**, Solving New Tasks by Adapting Internet Video Knowledge. [![arXiv](https://img.shields.io/badge/arXiv-2504.15369-b31b1b.svg)](https://arxiv.org/abs/2504.15369) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://diffusion-supervision.github.io/adapt2act/)
+
 - **VPP**,Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations. [![arXiv](https://img.shields.io/badge/arXiv-2412.14803-b31b1b.svg)](https://arxiv.org/abs/2412.14803) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://video-prediction-policy.github.io)
 
 - **GR-2**, GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2410.06158-b31b1b.svg)](https://arxiv.org/abs/2410.06158) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gr2-manipulation.github.io)
