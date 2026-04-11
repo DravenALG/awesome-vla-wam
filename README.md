@@ -28,6 +28,7 @@
 - 🧷 [Other Topics in VLA](#other-topics-in-vla)
 
 **World Action Models (WAM)**
+- 🗺️ [General World Models](#general-world-models)
 - 🎬 [World Action Models from VideoGen](#world-action-models-from-videogen)
 - 🌍 [World Action Models from VLM](#world-action-models-from-vlm)
 - ✨ [World Action Models from Scratch](#world-action-models-from-scratch)
@@ -206,6 +207,32 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 - **TraceVLA**, TraceVLA: Visual Trace Prompting Enhances Spatial-Temporal Awareness for Generalist Robotic Policies. [![arXiv](https://img.shields.io/badge/arXiv-2412.10345-b31b1b.svg)](https://arxiv.org/abs/2412.10345) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://tracevla.github.io)
 
 
+## General World Models
+
+- **DreamDojo**, DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos. [![arXiv](https://img.shields.io/badge/arXiv-2602.06949-b31b1b.svg)](https://arxiv.org/abs/2602.06949) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamdojo-world.github.io)
+
+- **NitroGen**, NitroGen: An Open Foundation Model for Generalist Gaming Agents. [![arXiv](https://img.shields.io/badge/arXiv-2601.02427-b31b1b.svg)](https://arxiv.org/abs/2601.02427) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nitrogen.minedojo.org)
+
+- **Puffin**, Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation. [![arXiv](https://img.shields.io/badge/arXiv-2510.086735-b31b1b.svg)](https://arxiv.org/abs/2510.086735) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kangliao929.github.io/projects/puffin/)
+
+- **Yume**, Yume: An Interactive World Generation Model. [![arXiv](https://img.shields.io/badge/arXiv-2507.17744-b31b1b.svg)](https://arxiv.org/abs/2507.17744) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://stdstu12.github.io/YUME-Project/)
+
+- **PlayerOne**, PlayerOne: Egocentric World Simulator. [![arXiv](https://img.shields.io/badge/arXiv-2506.09995-b31b1b.svg)](https://arxiv.org/abs/2506.09995) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://playerone-hku.github.io)
+
+- **Matrix-Game**, Matrix-Game: Interactive World Foundation Model. [![arXiv](https://img.shields.io/badge/arXiv-2506.18701-b31b1b.svg)](https://arxiv.org/abs/2506.18701) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/SkyworkAI/Matrix-Game)
+
+- **WorldMem**, WorldMem: Long-term Consistent World Simulation with Memory. [![arXiv](https://img.shields.io/badge/arXiv-2504.12369-b31b1b.svg)](https://arxiv.org/abs/2504.12369) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xizaoqu.github.io/worldmem/)
+
+- [⭐️] **Cosmos**, Cosmos World Foundation Model Platform for Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2501.03575-b31b1b.svg)](https://arxiv.org/abs/2501.03575) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/nvidia-cosmos/cosmos-predict1)
+
+- **GameFactory**, GameFactory: Creating New Games with Generative Interactive Videos. [![arXiv](https://img.shields.io/badge/arXiv-2501.08325-b31b1b.svg)](https://arxiv.org/abs/2501.08325) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yujiwen.github.io/gamefactory/)
+
+- **The Matrix**, The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control. [![arXiv](https://img.shields.io/badge/arXiv-2412.03568-b31b1b.svg)](https://arxiv.org/abs/2412.03568) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://thematrix1999.github.io)
+
+- [⭐️] **Genie**, Genie: Generative Interactive Environments. [![arXiv](https://img.shields.io/badge/arXiv-2402.15391-b31b1b.svg)](https://arxiv.org/abs/2402.15391) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/genie-2024/)
+
+- [⭐️] **ACVP**, Action-Conditional Video Prediction using Deep Networks in Atari Games. [![arXiv](https://img.shields.io/badge/arXiv-1507.08750-b31b1b.svg)](https://arxiv.org/abs/1507.08750)
+
 ## World Action Models from VideoGen
 
 - [⭐️] **DreamZero**, World Action Models are Zero-shot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2602.15922-b31b1b.svg)](https://arxiv.org/abs/2602.15922) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamzero0.github.io)
@@ -263,21 +290,48 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 
 ## World Action Models from Scratch
+
 - [⭐️] **Unified World Models**, Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets. [![arXiv](https://img.shields.io/badge/arXiv-2504.02792-b31b1b.svg)](https://arxiv.org/abs/2504.02792) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://weirdlabuw.github.io/uwm/)
 
 - **LPS**, Latent Policy Steering with Embodiment-Agnostic Pretrained World Models. [![arXiv](https://img.shields.io/badge/arXiv-2507.13340-b31b1b.svg)](https://arxiv.org/abs/2507.13340)
 
 - [⭐️] **UVAM**, Unified Video Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2503.00200-b31b1b.svg)](https://arxiv.org/abs/2503.00200) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://unified-video-action-model.github.io)
 
+- **NWM**, Navigation World Models. [![arXiv](https://img.shields.io/badge/arXiv-2412.03572-b31b1b.svg)](https://arxiv.org/abs/2412.03572) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.amirbar.net/nwm/)
+
 - **Seer**, Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2412.15109-b31b1b.svg)](https://arxiv.org/abs/2412.15109) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/InternRobotics/Seer)
+
+- **GameGen-X**, GameGen-X: Interactive Open-world Game Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2411.00769-b31b1b.svg)](https://arxiv.org/abs/2411.00769) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/GameGen-X/GameGen-X)
+
+- **GameNGen**, Diffusion Models Are Real-Time Game Engines. [![arXiv](https://img.shields.io/badge/arXiv-2408.14837-b31b1b.svg)](https://arxiv.org/abs/2408.14837) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gamengen.github.io)
+
+- **DIAMOND**, Diffusion for World Modeling: Visual Details Matter in Atari. [![arXiv](https://img.shields.io/badge/arXiv-2405.12399-b31b1b.svg)](https://arxiv.org/abs/2405.12399) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://diamond-wm.github.io)
 
 - **AVDC**, Learning to Act from Actionless Videos through Dense Correspondences. [![arXiv](https://img.shields.io/badge/arXiv-2310.08576-b31b1b.svg)](https://arxiv.org/abs/2310.08576) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flow-diffusion.github.io)
 
 - **UniSim**, Learning Interactive Real-World Simulators. [![arXiv](https://img.shields.io/badge/arXiv-2310.06114-b31b1b.svg)](https://arxiv.org/abs/2310.06114) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://universal-simulator.github.io/unisim/)
 
+- **Dynalang**, Learning to Model the World with Language. [![arXiv](https://img.shields.io/badge/arXiv-2308.01399-b31b1b.svg)](https://arxiv.org/abs/2308.01399) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dynalang.github.io)
+
+- [⭐️] **DreamerV3**, Mastering Diverse Domains through World Models. [![arXiv](https://img.shields.io/badge/arXiv-2301.04104-b31b1b.svg)](https://arxiv.org/abs/2301.04104) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://danijar.com/project/dreamerv3/)
+
 - **DayDreamer**, DayDreamer: World Models for Physical Robot Learning. [![arXiv](https://img.shields.io/badge/arXiv-2206.14176-b31b1b.svg)](https://arxiv.org/abs/2206.14176) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://danijar.com/project/daydreamer/)
 
+- **MWM**, Masked World Models for Visual Control. [![arXiv](https://img.shields.io/badge/arXiv-2206.14244-b31b1b.svg)](https://arxiv.org/abs/2206.14244) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/mwm-rl)
+
 - [⭐️] **Diffusers**, Planning with Diffusion for Flexible Behavior Synthesis. [![arXiv](https://img.shields.io/badge/arXiv-2205.09991-b31b1b.svg)](https://arxiv.org/abs/2205.09991) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://diffusion-planning.github.io)
+
+- [⭐️] **DreamerV2**, Mastering Atari with Discrete World Models. [![arXiv](https://img.shields.io/badge/arXiv-2010.02193-b31b1b.svg)](https://arxiv.org/abs/2010.02193) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://danijar.com/project/dreamerv2/)
+
+- [⭐️] **SimPLe**, Model-Based Reinforcement Learning for Atari. [![arXiv](https://img.shields.io/badge/arXiv-1903.00374-b31b1b.svg)](https://arxiv.org/abs/1903.00374) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/modelbasedrlatari/home)
+
+- [⭐️] **Dreamer**, Dream to Control: Learning Behaviors by Latent Imagination. [![arXiv](https://img.shields.io/badge/arXiv-1912.01603-b31b1b.svg)](https://arxiv.org/abs/1912.01603) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/google-research/dreamer)
+
+- [⭐️] **PlaNet**, Learning Latent Dynamics for Planning from Pixels. [![arXiv](https://img.shields.io/badge/arXiv-1811.04551-b31b1b.svg)](https://arxiv.org/abs/1811.04551) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/google-research/planet)
+
+- [⭐️] **World Models**, World Models. [![arXiv](https://img.shields.io/badge/arXiv-1803.10122-b31b1b.svg)](https://arxiv.org/abs/1803.10122) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worldmodels.github.io)
+
+- [⭐️] **Dyna**, Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming. [![Paper](https://img.shields.io/badge/Paper-Link-blue)](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9781558601413500304)
 
 
 ## Traditional Policies
