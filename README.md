@@ -209,7 +209,7 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## General World Models
 
-- **DreamDojo**, DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos. [![arXiv](https://img.shields.io/badge/arXiv-2602.06949-b31b1b.svg)](https://arxiv.org/abs/2602.06949) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamdojo-world.github.io)
+- [⭐️] **DreamDojo**, DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos. [![arXiv](https://img.shields.io/badge/arXiv-2602.06949-b31b1b.svg)](https://arxiv.org/abs/2602.06949) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamdojo-world.github.io)
 
 - **NitroGen**, NitroGen: An Open Foundation Model for Generalist Gaming Agents. [![arXiv](https://img.shields.io/badge/arXiv-2601.02427-b31b1b.svg)](https://arxiv.org/abs/2601.02427) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nitrogen.minedojo.org)
 
