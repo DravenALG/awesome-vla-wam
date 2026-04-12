@@ -209,10 +209,6 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## General World Models
 
-- **LeWorldModel**, LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels. [![arXiv](https://img.shields.io/badge/arXiv-2603.19312-b31b1b.svg)](https://arxiv.org/abs/2603.19312) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://le-wm.github.io)
-
-- **Fast-WAM**, Fast-WAM: Do World Action Models Need Test-time Future Imagination?. [![arXiv](https://img.shields.io/badge/arXiv-2603.16666-b31b1b.svg)](https://arxiv.org/abs/2603.16666) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuantianyuan01.github.io/FastWAM/)
-
 - [⭐️] **DreamDojo**, DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos. [![arXiv](https://img.shields.io/badge/arXiv-2602.06949-b31b1b.svg)](https://arxiv.org/abs/2602.06949) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamdojo-world.github.io)
 
 - **NitroGen**, NitroGen: An Open Foundation Model for Generalist Gaming Agents. [![arXiv](https://img.shields.io/badge/arXiv-2601.02427-b31b1b.svg)](https://arxiv.org/abs/2601.02427) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nitrogen.minedojo.org)
@@ -294,6 +290,10 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 
 ## World Action Models from Scratch
+
+- **LeWorldModel**, LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels. [![arXiv](https://img.shields.io/badge/arXiv-2603.19312-b31b1b.svg)](https://arxiv.org/abs/2603.19312) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://le-wm.github.io)
+
+- **Fast-WAM**, Fast-WAM: Do World Action Models Need Test-time Future Imagination?. [![arXiv](https://img.shields.io/badge/arXiv-2603.16666-b31b1b.svg)](https://arxiv.org/abs/2603.16666) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuantianyuan01.github.io/FastWAM/)
 
 - [⭐️] **Unified World Models**, Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets. [![arXiv](https://img.shields.io/badge/arXiv-2504.02792-b31b1b.svg)](https://arxiv.org/abs/2504.02792) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://weirdlabuw.github.io/uwm/)
 
