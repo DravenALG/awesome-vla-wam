@@ -340,6 +340,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## Traditional Policies
 
+- **HiLAM**, Hierarchical Latent Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2509.18644-b31b1b.svg)](https://arxiv.org/abs/2603.05815)
+
 - **State-free Policy**, Do You Need Proprioceptive States in Visuomotor Policies?. [![arXiv](https://img.shields.io/badge/arXiv-2509.18644-b31b1b.svg)](https://arxiv.org/abs/2509.18644) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://statefreepolicy.github.io)
 
 - **RDP**, Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2503.02881-b31b1b.svg)](https://arxiv.org/abs/2503.02881) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://reactive-diffusion-policy.github.io)
