@@ -239,6 +239,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - [⭐️] **Cosmos Policy**, Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning. [![arXiv](https://img.shields.io/badge/arXiv-2601.16163-b31b1b.svg)](https://arxiv.org/abs/2601.16163) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/dir/cosmos-policy/)
 
+- [⭐️] **World-VLA-Loop**, World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy. [![arXiv](https://img.shields.io/badge/arXiv-2602.06508-b31b1b.svg)](https://arxiv.org/abs/2602.06508) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://showlab.github.io/World-VLA-Loop/)
+
 - **Lingbot-VA**, Causal World Modeling for Robot Control. [![arXiv](https://img.shields.io/badge/arXiv-2601.21998-b31b1b.svg)](https://arxiv.org/abs/2601.21998) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-va)
 
 - **mimic-video**, mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs. [![arXiv](https://img.shields.io/badge/arXiv-2512.15692-b31b1b.svg)](https://arxiv.org/abs/2512.15692) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://mimic-video.github.io)
