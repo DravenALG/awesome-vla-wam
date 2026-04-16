@@ -291,6 +291,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## World Action Models from Scratch
 
+- **World Action Verifier**, World Action Verifier: Self-Improving World Models via Forward-Inverse Asymmetry. [![arXiv](https://img.shields.io/badge/arXiv-2604.01985-b31b1b.svg)](https://arxiv.org/abs/2604.01985) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://world-action-verifier.github.io)
+
 - **LeWorldModel**, LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels. [![arXiv](https://img.shields.io/badge/arXiv-2603.19312-b31b1b.svg)](https://arxiv.org/abs/2603.19312) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://le-wm.github.io)
 
 - **Fast-WAM**, Fast-WAM: Do World Action Models Need Test-time Future Imagination?. [![arXiv](https://img.shields.io/badge/arXiv-2603.16666-b31b1b.svg)](https://arxiv.org/abs/2603.16666) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuantianyuan01.github.io/FastWAM/)
