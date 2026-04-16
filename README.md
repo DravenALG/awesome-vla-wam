@@ -78,6 +78,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - [⭐️] Emergence of Human to Robot Transfer in Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2512.22414-b31b1b.svg)](https://arxiv.org/abs/2512.22414) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/research/human_to_robot)
 
+- **FASTer**, FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization. [![arXiv](https://img.shields.io/badge/arXiv-2512.04952-b31b1b.svg)](https://arxiv.org/abs/2512.04952)
+
 - [⭐️] **π∗0.6**, π∗0.6: a VLA That Learns From Experience. [![arXiv](https://img.shields.io/badge/arXiv-2511.14759-b31b1b.svg)](https://arxiv.org/abs/2511.14759) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/blog/pistar06)
 
 - **AVA-VLA**, AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention. [![arXiv](https://img.shields.io/badge/arXiv-2511.18960-b31b1b.svg)](https://arxiv.org/abs/2511.18960)
