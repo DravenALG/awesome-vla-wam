@@ -239,6 +239,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## World Action Models from VideoGen
 
+- **Fast-WAM**, Fast-WAM: Do World Action Models Need Test-time Future Imagination?. [![arXiv](https://img.shields.io/badge/arXiv-2603.16666-b31b1b.svg)](https://arxiv.org/abs/2603.16666) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuantianyuan01.github.io/FastWAM/)
+
 - [⭐️] **DreamZero**, World Action Models are Zero-shot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2602.15922-b31b1b.svg)](https://arxiv.org/abs/2602.15922) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamzero0.github.io)
 
 - [⭐️] **Cosmos Policy**, Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning. [![arXiv](https://img.shields.io/badge/arXiv-2601.16163-b31b1b.svg)](https://arxiv.org/abs/2601.16163) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/dir/cosmos-policy/)
@@ -305,11 +307,9 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **LeWorldModel**, LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels. [![arXiv](https://img.shields.io/badge/arXiv-2603.19312-b31b1b.svg)](https://arxiv.org/abs/2603.19312) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://le-wm.github.io)
 
-- **Fast-WAM**, Fast-WAM: Do World Action Models Need Test-time Future Imagination?. [![arXiv](https://img.shields.io/badge/arXiv-2603.16666-b31b1b.svg)](https://arxiv.org/abs/2603.16666) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuantianyuan01.github.io/FastWAM/)
-
-- [⭐️] **Unified World Models**, Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets. [![arXiv](https://img.shields.io/badge/arXiv-2504.02792-b31b1b.svg)](https://arxiv.org/abs/2504.02792) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://weirdlabuw.github.io/uwm/)
-
 - **LPS**, Latent Policy Steering with Embodiment-Agnostic Pretrained World Models. [![arXiv](https://img.shields.io/badge/arXiv-2507.13340-b31b1b.svg)](https://arxiv.org/abs/2507.13340)
+
+- **Unified World Models**, Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets. [![arXiv](https://img.shields.io/badge/arXiv-2504.02792-b31b1b.svg)](https://arxiv.org/abs/2504.02792) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://weirdlabuw.github.io/uwm/)
 
 - [⭐️] **UVAM**, Unified Video Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2503.00200-b31b1b.svg)](https://arxiv.org/abs/2503.00200) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://unified-video-action-model.github.io)
 
