@@ -395,6 +395,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **Galaxea**, Galaxea Open-World Dataset and G0 Dual-System VLA Model. [![arXiv](https://img.shields.io/badge/arXiv-2509.00576-b31b1b.svg)](https://arxiv.org/abs/2509.00576) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huggingface.co/datasets/OpenGalaxea/Galaxea-Open-World-Dataset)
 
+- [⭐️] **EgoDex**, EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video. [![arXiv](https://img.shields.io/badge/arXiv-2505.11709-b31b1b.svg)](https://arxiv.org/abs/2505.11709) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/apple/ml-egodex)
+
 - [⭐️] **AgiBot World**, AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems. [![arXiv](https://img.shields.io/badge/arXiv-2503.06669-b31b1b.svg)](https://arxiv.org/abs/2503.06669) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://agibot-world.com)
 
 - **RoboMIND**, RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2412.13877-b31b1b.svg)](https://arxiv.org/abs/2412.13877) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://x-humanoid-robomind.github.io)
