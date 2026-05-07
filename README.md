@@ -429,6 +429,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **LIBERO-Plus**, LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-2510.13626-b31b1b.svg)](https://arxiv.org/abs/2510.13626) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sylvestf.github.io/LIBERO-plus/)
 
+- **RoboChallenge**, RoboChallenge: Large-scale Real-robot Evaluation of Embodied Policies. [![arXiv](https://img.shields.io/badge/arXiv-2510.17950-b31b1b.svg)](https://arxiv.org/abs/2510.17950) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robochallenge.ai/home)
+
 - [⭐️] **RoboArena**, RoboArena: Distributed Real-World Evaluation of Generalist Robot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2506.18123-b31b1b.svg)](https://arxiv.org/abs/2506.18123) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robo-arena.github.io)
 
 - [⭐️] **RoboTwin 2.0**, RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2506.18088-b31b1b.svg)](https://arxiv.org/abs/2506.18088) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/robotwin-Platform/robotwin/)
