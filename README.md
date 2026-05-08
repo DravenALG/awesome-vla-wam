@@ -459,6 +459,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## Hardware
 
+- [⭐️] **UMI**, Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots. [![arXiv](https://img.shields.io/badge/arXiv-2402.10329-b31b1b.svg)](https://arxiv.org/abs/2402.10329) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://umi-gripper.github.io)
+
 - **GELLO**, GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators. [![arXiv](https://img.shields.io/badge/arXiv-2309.13037-b31b1b.svg)](https://arxiv.org/abs/2309.13037) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wuphilipp.github.io/gello_site/)
 
 - [⭐️] **ALOHA**, Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware. [![arXiv](https://img.shields.io/badge/arXiv-2304.13705-b31b1b.svg)](https://arxiv.org/abs/2304.13705) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://tonyzhaozh.github.io/aloha/)
