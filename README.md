@@ -180,6 +180,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## VLA with Latent Actions
 
+- **From Pixels to Tokens**, From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.04678-b31b1b.svg)](https://arxiv.org/abs/2605.04678) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/RUCKBReasoning/From_Pixels_to_Tokens)
+
 - **Motus**, Motus: A Unified Latent Action World Model. [![arXiv](https://img.shields.io/badge/arXiv-2512.13030-b31b1b.svg)](https://arxiv.org/abs/2512.13030) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://motus-robotics.github.io/motus)
 
 - [⭐️] **GR00T N1**, GR00T N1: An Open Foundation Model for Generalist Humanoid Robots. [![arXiv](https://img.shields.io/badge/arXiv-2503.14734-b31b1b.svg)](https://arxiv.org/abs/2503.14734) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://developer.nvidia.com/isaac/gr00t)
@@ -217,6 +219,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 ## General World Models
 
 - [⭐️] **DreamDojo**, DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos. [![arXiv](https://img.shields.io/badge/arXiv-2602.06949-b31b1b.svg)](https://arxiv.org/abs/2602.06949) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamdojo-world.github.io)
+
+- Learning Latent Action World Models In The Wild. [![arXiv](https://img.shields.io/badge/arXiv-2601.05230-b31b1b.svg)](https://arxiv.org/pdf/2601.05230)
 
 - **PointWorld**, PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2601.03782-b31b1b.svg)](https://arxiv.org/abs/2601.03782) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://point-world.github.io)
 
@@ -459,6 +463,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## Hardware
 
+- **DexUMI**, DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2505.21864-b31b1b.svg)](https://arxiv.org/abs/2505.21864) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dex-umi.github.io)
+
 - [⭐️] **UMI**, Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots. [![arXiv](https://img.shields.io/badge/arXiv-2402.10329-b31b1b.svg)](https://arxiv.org/abs/2402.10329) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://umi-gripper.github.io)
 
 - **GELLO**, GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators. [![arXiv](https://img.shields.io/badge/arXiv-2309.13037-b31b1b.svg)](https://arxiv.org/abs/2309.13037) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wuphilipp.github.io/gello_site/)
@@ -467,6 +473,3 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## Acknowledgements
 Thanks to [Awesome World Models](https://github.com/knightnemo/Awesome-World-Models/tree/main) for the template.
-
-
-
