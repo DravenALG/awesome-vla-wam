@@ -64,7 +64,7 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## General VLA
 
-- [VLA with World Modeling](#world-action-models-from-vlm)
+[VLA with World Modeling](#world-action-models-from-vlm)
 
 - **MolmoAct2**, MolmoAct2 Action Reasoning Models for Real-World Deployment. [![arXiv](https://img.shields.io/badge/arXiv-2605.02881-b31b1b.svg)](https://arxiv.org/abs/2605.02881) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://allenai.org/blog/molmoact2)
 
