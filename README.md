@@ -68,6 +68,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **MolmoAct2**, MolmoAct2 Action Reasoning Models for Real-World Deployment. [![arXiv](https://img.shields.io/badge/arXiv-2605.02881-b31b1b.svg)](https://arxiv.org/abs/2605.02881) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://allenai.org/blog/molmoact2)
 
+- **RLDX-1**, RLDX-1 Technical Report. [![arXiv](https://img.shields.io/badge/arXiv-2605.03269-b31b1b.svg)](https://arxiv.org/abs/2605.03269) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.rlwrld.ai/en/rldx-1)
+
 - **StarVLA-α**, StarVLA-α: Reducing Complexity in Vision-Language-Action Systems. [![arXiv](https://img.shields.io/badge/arXiv-2604.11757-b31b1b.svg)](https://arxiv.org/abs/2604.11757) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/starVLA/starVLA)
 
 - **StarVLA**, StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing. [![arXiv](https://img.shields.io/badge/arXiv-2604.05014-b31b1b.svg)](https://arxiv.org/abs/2604.05014) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/starVLA/starVLA)
@@ -262,6 +264,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **Fast-WAM**, Fast-WAM: Do World Action Models Need Test-time Future Imagination?. [![arXiv](https://img.shields.io/badge/arXiv-2603.16666-b31b1b.svg)](https://arxiv.org/abs/2603.16666) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuantianyuan01.github.io/FastWAM/)
 
+- Do World Action Models Generalize Better than VLAs? A Robustness Study. [![arXiv](https://img.shields.io/badge/arXiv-2603.22078-b31b1b.svg)](https://arxiv.org/abs/2603.22078)
+
 - [⭐️] **DreamZero**, World Action Models are Zero-shot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2602.15922-b31b1b.svg)](https://arxiv.org/abs/2602.15922) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamzero0.github.io)
 
 - [⭐️] **Cosmos Policy**, Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning. [![arXiv](https://img.shields.io/badge/arXiv-2601.16163-b31b1b.svg)](https://arxiv.org/abs/2601.16163) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/dir/cosmos-policy/)
@@ -293,7 +297,7 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## World Action Models from VLM
 
-- [⭐️] **π0.7**, π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/blog/pi07)
+- [⭐️] **π0.7**, π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities. [![arXiv](https://img.shields.io/badge/arXiv-2604.15483-b31b1b.svg)](https://arxiv.org/abs/2604.15483) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/blog/pi07)
 
 - **LDA-1B**, LDA-1B: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion. [![arXiv](https://img.shields.io/badge/arXiv-2602.12215-b31b1b.svg)](https://arxiv.org/abs/2602.12215) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://pku-epic.github.io/LDA/)
 
@@ -417,6 +421,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 - **RoboCOIN**, RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2511.17441-b31b1b.svg)](https://arxiv.org/abs/2511.17441) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flagopen.github.io/RoboCOIN/)
 
 - **Humanoid Everyday**, Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2510.08807-b31b1b.svg)](https://arxiv.org/abs/2510.08807) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://humanoideveryday.github.io)
+
+- **Fourier ActionNet Dataset**, Fourier ActionNet Dataset. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://action-net.org)
 
 - **Galaxea**, Galaxea Open-World Dataset and G0 Dual-System VLA Model. [![arXiv](https://img.shields.io/badge/arXiv-2509.00576-b31b1b.svg)](https://arxiv.org/abs/2509.00576) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huggingface.co/datasets/OpenGalaxea/Galaxea-Open-World-Dataset)
 
