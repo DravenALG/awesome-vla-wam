@@ -93,6 +93,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **X-VLA**, X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2510.10274-b31b1b.svg)](https://arxiv.org/abs/2510.10274) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://thu-air-dream.github.io/X-VLA/)
 
+- **ATE**, Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance. [![arXiv](https://img.shields.io/badge/arXiv-2509.02055-b31b1b.svg)](https://arxiv.org/abs/2509.02055) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://align-then-steer.github.io)
+
 - **UniVLA**, Unified Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2506.19850-b31b1b.svg)](https://arxiv.org/abs/2506.19850) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robertwyq.github.io/univla.github.io/)
 
 - **SmolVLA**, SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics. [![arXiv](https://img.shields.io/badge/arXiv-2506.01844-b31b1b.svg)](https://arxiv.org/abs/2506.01844) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/huggingface/lerobot)
