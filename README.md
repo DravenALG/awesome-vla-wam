@@ -19,7 +19,6 @@
 
 **Vision-Language-Action (VLA) Models**
 - 🧠 [General VLA](#general-vla)
-- 💡 [VLA with Reasoning](#vla-with-reasoning)
 - 🌐 [VLA with 3D/4D Modelling](#vla-with-3d4d-modelling)
 - 🔥 [VLA with Reinforcement Learning](#vla-with-reinforcement-learning)
 - 🪶 [Efficient VLA](#efficient-vla)
@@ -89,6 +88,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **FASTer**, FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization. [![arXiv](https://img.shields.io/badge/arXiv-2512.04952-b31b1b.svg)](https://arxiv.org/abs/2512.04952)
 
+- **GenieReasoner**, Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training. [![arXiv](https://img.shields.io/badge/arXiv-2512.24125-b31b1b.svg)](https://arxiv.org/abs/2512.24125) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://geniereasoner.github.io/GenieReasoner/)
+
 - [⭐️] **π∗0.6**, π∗0.6: a VLA That Learns From Experience. [![arXiv](https://img.shields.io/badge/arXiv-2511.14759-b31b1b.svg)](https://arxiv.org/abs/2511.14759) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/blog/pistar06)
 
 - **AVA-VLA**, AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention. [![arXiv](https://img.shields.io/badge/arXiv-2511.18960-b31b1b.svg)](https://arxiv.org/abs/2511.18960)
@@ -103,15 +104,21 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **UniVLA**, Unified Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2506.19850-b31b1b.svg)](https://arxiv.org/abs/2506.19850) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robertwyq.github.io/univla.github.io/)
 
+- **MolmoAct**, MolmoAct: Action Reasoning Models that can Reason in Space. [![arXiv](https://img.shields.io/badge/arXiv-2508.07917-b31b1b.svg)](https://arxiv.org/abs/2508.07917) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://allenai.org/blog/molmoact)
+
 - **SmolVLA**, SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics. [![arXiv](https://img.shields.io/badge/arXiv-2506.01844-b31b1b.svg)](https://arxiv.org/abs/2506.01844) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/huggingface/lerobot)
 
 - **NORA**, NORA: A Small Open-Sourced Generalist Vision Language Action Model for Embodied Tasks. [![arXiv](https://img.shields.io/badge/arXiv-2504.19854-b31b1b.svg)](https://arxiv.org/abs/2504.19854) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://declare-lab.github.io/nora)
 
 - **CronusVLA**, CronusVLA: Towards Efficient and Robust Manipulation via Multi-Frame Vision-Language-Action Modeling. [![arXiv](https://img.shields.io/badge/arXiv-2506.19816-b31b1b.svg)](https://arxiv.org/abs/2506.19816) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lihaohn.github.io/CronusVLA.github.io/)
 
+- [⭐️] **π0.5**, π0.5: a Vision-Language-Action Model with Open-World Generalization. [![arXiv](https://img.shields.io/badge/arXiv-2504.16054-b31b1b.svg)](https://arxiv.org/abs/2504.16054) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/blog/pi05)
+
 - [⭐️] **Gemini Robotics**, Gemini Robotics: Bringing AI into the Physical World. [![arXiv](https://img.shields.io/badge/arXiv-2503.20020-b31b1b.svg)](https://arxiv.org/abs/2503.20020) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/gemini-robotics/)
 
 - [⭐️] **OpenVLA-OFT**, Fine-Tuning Vision-Language-Action Models: Optimizing Speed and Success. [![arXiv](https://img.shields.io/badge/arXiv-2502.19645-b31b1b.svg)](https://arxiv.org/abs/2502.19645) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://openvla-oft.github.io)
+
+- **ChatVLA**, ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2502.14420-b31b1b.svg)](https://arxiv.org/abs/2502.14420) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://chatvla.github.io)
 
 - [⭐️] **FAST**, FAST: Efficient Action Tokenization for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2501.09747-b31b1b.svg)](https://arxiv.org/abs/2501.09747) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/research/fast)
 
@@ -127,15 +134,6 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - [⭐️] **RT-2**, RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. [![arXiv](https://img.shields.io/badge/arXiv-2307.15818-b31b1b.svg)](https://arxiv.org/abs/2307.15818) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics-transformer2.github.io)
 
-## VLA with Reasoning
-
-- **GenieReasoner**, Unified Embodied VLM Reasoning with Robotic Action via Autoregressive Discretized Pre-training. [![arXiv](https://img.shields.io/badge/arXiv-2512.24125-b31b1b.svg)](https://arxiv.org/abs/2512.24125) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://geniereasoner.github.io/GenieReasoner/)
-
-- **MolmoAct**, MolmoAct: Action Reasoning Models that can Reason in Space. [![arXiv](https://img.shields.io/badge/arXiv-2508.07917-b31b1b.svg)](https://arxiv.org/abs/2508.07917) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://allenai.org/blog/molmoact)
-
-- [⭐️] **π0.5**, π0.5: a Vision-Language-Action Model with Open-World Generalization. [![arXiv](https://img.shields.io/badge/arXiv-2504.16054-b31b1b.svg)](https://arxiv.org/abs/2504.16054) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/blog/pi05)
-
-- **ChatVLA**, ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2502.14420-b31b1b.svg)](https://arxiv.org/abs/2502.14420) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://chatvla.github.io)
 
 ## VLA with 3D/4D Modelling
 
