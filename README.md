@@ -65,6 +65,12 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## General VLA
 
+- **MolmoAct2**, MolmoAct2 Action Reasoning Models for Real-World Deployment. [![arXiv](https://img.shields.io/badge/arXiv-2605.02881-b31b1b.svg)](https://arxiv.org/abs/2605.02881) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://allenai.org/blog/molmoact2)
+
+- **StarVLA-α**, StarVLA-α: Reducing Complexity in Vision-Language-Action Systems. [![arXiv](https://img.shields.io/badge/arXiv-2604.11757-b31b1b.svg)](https://arxiv.org/abs/2604.11757) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/starVLA/starVLA)
+
+- **StarVLA**, StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing. [![arXiv](https://img.shields.io/badge/arXiv-2604.05014-b31b1b.svg)](https://arxiv.org/abs/2604.05014) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/starVLA/starVLA)
+
 - **VLANeXt**, VLANeXt: Recipes for Building Strong VLA Models. [![arXiv](https://img.shields.io/badge/arXiv-2602.18532-b31b1b.svg)](https://arxiv.org/abs/2602.18532) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dravenalg.github.io/VLANeXt/)
 
 - [⭐️] **Egoscale**, EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data. [![arXiv](https://img.shields.io/badge/arXiv-2602.16710-b31b1b.svg)](https://arxiv.org/abs/2602.16710) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/egoscale/)
@@ -289,6 +295,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - [⭐️] **π0.7**, π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/blog/pi07)
 
+- **LDA-1B**, LDA-1B: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion. [![arXiv](https://img.shields.io/badge/arXiv-2602.12215-b31b1b.svg)](https://arxiv.org/abs/2602.12215) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://pku-epic.github.io/LDA/)
+
 - **VLAW**, VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model. [![arXiv](https://img.shields.io/badge/arXiv-2602.12063-b31b1b.svg)](https://arxiv.org/abs/2602.12063) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/vlaw-arxiv)
 
 - **WoG**, World Guidance World Modeling in Condition Space for Action Generation. [![arXiv](https://img.shields.io/badge/arXiv-2602.22010-b31b1b.svg)](https://arxiv.org/abs/2602.22010) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://selen-suyue.github.io/WoGNet/)
@@ -408,7 +416,11 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **RoboCOIN**, RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2511.17441-b31b1b.svg)](https://arxiv.org/abs/2511.17441) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flagopen.github.io/RoboCOIN/)
 
+- **Humanoid Everyday**, Humanoid Everyday: A Comprehensive Robotic Dataset for Open-World Humanoid Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2510.08807-b31b1b.svg)](https://arxiv.org/abs/2510.08807) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://humanoideveryday.github.io)
+
 - **Galaxea**, Galaxea Open-World Dataset and G0 Dual-System VLA Model. [![arXiv](https://img.shields.io/badge/arXiv-2509.00576-b31b1b.svg)](https://arxiv.org/abs/2509.00576) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huggingface.co/datasets/OpenGalaxea/Galaxea-Open-World-Dataset)
+
+- **MolmoAct**, MolmoAct: Action Reasoning Models that can Reason in Space. [![arXiv](https://img.shields.io/badge/arXiv-2508.07917-b31b1b.svg)](https://arxiv.org/abs/2508.07917) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://allenai.org/blog/molmoact)
 
 - [⭐️] **AgiBot World**, AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems. [![arXiv](https://img.shields.io/badge/arXiv-2503.06669-b31b1b.svg)](https://arxiv.org/abs/2503.06669) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://agibot-world.com)
 
@@ -432,6 +444,7 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 
 ## Benchmark / Environment
+
 
 - **WorldArena**, WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models [![arXiv](https://img.shields.io/badge/arXiv-2602.08971-b31b1b.svg)](https://arxiv.org/abs/2602.08971) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://world-arena.ai)
 
