@@ -106,6 +106,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **ATE**, Align-Then-stEer: Adapting the Vision-Language Action Models through Unified Latent Guidance. [![arXiv](https://img.shields.io/badge/arXiv-2509.02055-b31b1b.svg)](https://arxiv.org/abs/2509.02055) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://align-then-steer.github.io)
 
+- **Discrete Diffusion VLA**, Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies. [![arXiv](https://img.shields.io/badge/arXiv-2508.20072-b31b1b.svg)](https://arxiv.org/abs/2508.20072) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/Liang-ZX/DiscreteDiffusionVLA/tree/libero)
+
 - **UniVLA**, Unified Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2506.19850-b31b1b.svg)](https://arxiv.org/abs/2506.19850) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robertwyq.github.io/univla.github.io/)
 
 - **MolmoAct**, MolmoAct: Action Reasoning Models that can Reason in Space. [![arXiv](https://img.shields.io/badge/arXiv-2508.07917-b31b1b.svg)](https://arxiv.org/abs/2508.07917) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://allenai.org/blog/molmoact)
