@@ -77,6 +77,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **VLANeXt**, VLANeXt: Recipes for Building Strong VLA Models. [![arXiv](https://img.shields.io/badge/arXiv-2602.18532-b31b1b.svg)](https://arxiv.org/abs/2602.18532) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dravenalg.github.io/VLANeXt/)
 
+- **CoVer-VLA**, Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment. [![arXiv](https://img.shields.io/badge/arXiv-2602.12281-b31b1b.svg)](https://arxiv.org/abs/2602.12281) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cover-vla.github.io)
+
 - [⭐️] **Egoscale**, EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data. [![arXiv](https://img.shields.io/badge/arXiv-2602.16710-b31b1b.svg)](https://arxiv.org/abs/2602.16710) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/egoscale/)
 
 - **HoloBrain-0**, HoloBrain-0 Technical Report. [![arXiv](https://img.shields.io/badge/arXiv-2602.12062-b31b1b.svg)](https://arxiv.org/abs/2602.12062) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://horizonrobotics.github.io/robot_lab/holobrain/)
