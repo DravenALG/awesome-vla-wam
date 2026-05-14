@@ -261,6 +261,10 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - [⭐️] **Genie**, Genie: Generative Interactive Environments. [![arXiv](https://img.shields.io/badge/arXiv-2402.15391-b31b1b.svg)](https://arxiv.org/abs/2402.15391) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sites.google.com/view/genie-2024/)
 
+- **Playable Environments**, Playable Environments: Video Manipulation in Space and Time. [![arXiv](https://img.shields.io/badge/arXiv-2203.01914-b31b1b.svg)](https://arxiv.org/abs/2203.01914)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://willi-menapace.github.io/playable-environments-website/)
+
+- **CADDY**, Playable Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2101.12195-b31b1b.svg)](https://arxiv.org/abs/2101.12195)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://willi-menapace.github.io/playable-video-generation-website/)
+
 - [⭐️] **ACVP**, Action-Conditional Video Prediction using Deep Networks in Atari Games. [![arXiv](https://img.shields.io/badge/arXiv-1507.08750-b31b1b.svg)](https://arxiv.org/abs/1507.08750)
 
 ## World Action Models from VideoGen
@@ -345,6 +349,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **NWM**, Navigation World Models. [![arXiv](https://img.shields.io/badge/arXiv-2412.03572-b31b1b.svg)](https://arxiv.org/abs/2412.03572) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.amirbar.net/nwm/)
 
+- **Moto**, Moto: Latent Motion Token as the Bridging Language for Learning Robot Manipulation from Videos. [![arXiv](https://img.shields.io/badge/arXiv-2412.04445-b31b1b.svg)](https://arxiv.org/abs/2412.04445) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://chenyi99.github.io/moto/)
+
 - **Seer**, Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2412.15109-b31b1b.svg)](https://arxiv.org/abs/2412.15109) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/InternRobotics/Seer)
 
 - **GameGen-X**, GameGen-X: Interactive Open-world Game Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2411.00769-b31b1b.svg)](https://arxiv.org/abs/2411.00769) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/GameGen-X/GameGen-X)
@@ -352,6 +358,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 - **GameNGen**, Diffusion Models Are Real-Time Game Engines. [![arXiv](https://img.shields.io/badge/arXiv-2408.14837-b31b1b.svg)](https://arxiv.org/abs/2408.14837) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gamengen.github.io)
 
 - **DIAMOND**, Diffusion for World Modeling: Visual Details Matter in Atari. [![arXiv](https://img.shields.io/badge/arXiv-2405.12399-b31b1b.svg)](https://arxiv.org/abs/2405.12399) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://diamond-wm.github.io)
+
+- **LAPO**, Learning to Act without Actions. [![arXiv](https://img.shields.io/badge/arXiv-2312.10812-b31b1b.svg)](https://arxiv.org/abs/2312.10812) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://github.com/schmidtdominik/LAPO)
 
 - **AVDC**, Learning to Act from Actionless Videos through Dense Correspondences. [![arXiv](https://img.shields.io/badge/arXiv-2310.08576-b31b1b.svg)](https://arxiv.org/abs/2310.08576) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flow-diffusion.github.io)
 
@@ -375,9 +383,12 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - [⭐️] **PlaNet**, Learning Latent Dynamics for Planning from Pixels. [![arXiv](https://img.shields.io/badge/arXiv-1811.04551-b31b1b.svg)](https://arxiv.org/abs/1811.04551) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/google-research/planet)
 
+- **ILPO**, Imitating Latent Policies from Observation. [![arXiv](https://img.shields.io/badge/arXiv-1805.07914-b31b1b.svg)](https://arxiv.org/abs/1805.07914) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/ashedwards/ILPO)
+
 - [⭐️] **World Models**, World Models. [![arXiv](https://img.shields.io/badge/arXiv-1803.10122-b31b1b.svg)](https://arxiv.org/abs/1803.10122) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://worldmodels.github.io)
 
 - [⭐️] **Dyna**, Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming. [![Paper](https://img.shields.io/badge/Paper-Link-blue)](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9781558601413500304)
+
 
 
 ## Traditional Policies
@@ -389,7 +400,6 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 - **RDP**, Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2503.02881-b31b1b.svg)](https://arxiv.org/abs/2503.02881) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://reactive-diffusion-policy.github.io)
 
 - [⭐️] **RDT-1B**, RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2410.07864-b31b1b.svg)](https://arxiv.org/abs/2410.07864) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rdt-robotics.github.io/rdt-robotics/)
-
 
 - **HPT**, Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers. [![arXiv](https://img.shields.io/badge/arXiv-2409.20537-b31b1b.svg)](https://arxiv.org/abs/2409.20537) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://liruiw.github.io/hpt/)
 
@@ -424,6 +434,7 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - [⭐️] **Zero-Shot Planner**, Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents. [![arXiv](https://img.shields.io/badge/arXiv-2201.07207-b31b1b.svg)](https://arxiv.org/abs/2201.07207) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wenlonghuang.com/language-planner/)
 
+
 ## Robotics Datasets
 
 - **GM100**, The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents. [![arXiv](https://img.shields.io/badge/arXiv-2601.11421-b31b1b.svg)](https://arxiv.org/abs/2601.11421) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.rhos.ai/research/gm-100)
@@ -453,6 +464,7 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## Ego Human Datasets
 
+- **HumanNet**, HumanNet: Scaling Human-centric Video Learning to One Million Hours. [![arXiv](https://img.shields.io/badge/arXiv-2505.11709-b31b1b.svg)](https://arxiv.org/abs/2505.11709) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/apple/ml-egodex)
 
 - [⭐️] **EgoDex**, EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video. [![arXiv](https://img.shields.io/badge/arXiv-2505.11709-b31b1b.svg)](https://arxiv.org/abs/2505.11709) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/apple/ml-egodex)
 
