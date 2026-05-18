@@ -271,6 +271,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **CADDY**, Playable Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2101.12195-b31b1b.svg)](https://arxiv.org/abs/2101.12195)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://willi-menapace.github.io/playable-video-generation-website/)
 
+- **CLASP**, Learning what you can do before doing anything. [![arXiv](https://img.shields.io/badge/arXiv-1806.09655-b31b1b.svg)](https://arxiv.org/abs/1806.09655)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://daniilidis-group.github.io/learned_action_spaces/)
+
 - [⭐️] **ACVP**, Action-Conditional Video Prediction using Deep Networks in Atari Games. [![arXiv](https://img.shields.io/badge/arXiv-1507.08750-b31b1b.svg)](https://arxiv.org/abs/1507.08750)
 
 ## World Action Models from VideoGen
