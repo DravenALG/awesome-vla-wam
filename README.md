@@ -99,6 +99,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - [⭐️] **π∗0.6**, π∗0.6: a VLA That Learns From Experience. [![arXiv](https://img.shields.io/badge/arXiv-2511.14759-b31b1b.svg)](https://arxiv.org/abs/2511.14759) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/blog/pistar06)
 
+- 10 Open Challenges Steering the Future of Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2511.05936-b31b1b.svg)](https://arxiv.org/abs/2511.05936)
+
 - **AVA-VLA**, AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention. [![arXiv](https://img.shields.io/badge/arXiv-2511.18960-b31b1b.svg)](https://arxiv.org/abs/2511.18960)
 
 - **AsyncVLA**, AsyncVLA: Asynchronous Flow Matching for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2511.14148-b31b1b.svg)](https://arxiv.org/abs/2511.14148) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/YuhuaJiang2002/AsyncVLA)
@@ -245,6 +247,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 - **Puffin**, Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation. [![arXiv](https://img.shields.io/badge/arXiv-2510.086735-b31b1b.svg)](https://arxiv.org/abs/2510.086735) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://kangliao929.github.io/projects/puffin/)
 
+- **CoLA-World**, Co-Evolving Latent Action World Models. [![arXiv](https://img.shields.io/badge/arXiv-2510.26433-b31b1b.svg)](https://arxiv.org/abs/2510.26433)
+
 - **Yume**, Yume: An Interactive World Generation Model. [![arXiv](https://img.shields.io/badge/arXiv-2507.17744-b31b1b.svg)](https://arxiv.org/abs/2507.17744) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://stdstu12.github.io/YUME-Project/)
 
 - **PlayerOne**, PlayerOne: Egocentric World Simulator. [![arXiv](https://img.shields.io/badge/arXiv-2506.09995-b31b1b.svg)](https://arxiv.org/abs/2506.09995) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://playerone-hku.github.io)
@@ -252,6 +256,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 - **Matrix-Game**, Matrix-Game: Interactive World Foundation Model. [![arXiv](https://img.shields.io/badge/arXiv-2506.18701-b31b1b.svg)](https://arxiv.org/abs/2506.18701) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/SkyworkAI/Matrix-Game)
 
 - **WorldMem**, WorldMem: Long-term Consistent World Simulation with Memory. [![arXiv](https://img.shields.io/badge/arXiv-2504.12369-b31b1b.svg)](https://arxiv.org/abs/2504.12369) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xizaoqu.github.io/worldmem/)
+
+- **AdaWorld**, AdaWorld: Learning Adaptable World Models with Latent Actions. [![arXiv](https://img.shields.io/badge/arXiv-2503.18938-b31b1b.svg)](https://arxiv.org/abs/2503.18938) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://adaptable-world-model.github.io)
 
 - [⭐️] **Cosmos**, Cosmos World Foundation Model Platform for Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2501.03575-b31b1b.svg)](https://arxiv.org/abs/2501.03575) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/nvidia-cosmos/cosmos-predict1)
 
@@ -286,6 +292,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 - **mimic-video**, mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs. [![arXiv](https://img.shields.io/badge/arXiv-2512.15692-b31b1b.svg)](https://arxiv.org/abs/2512.15692) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://mimic-video.github.io)
 
 - **Video Policy**, Video Generators are Robot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2508.00795-b31b1b.svg)](https://arxiv.org/abs/2508.00795) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://videopolicy.cs.columbia.edu)
+
+- **UniVLA**, Unified Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2506.19850-b31b1b.svg)](https://arxiv.org/abs/2506.19850) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robertwyq.github.io/univla.github.io/)
 
 - **DreamGen**, DreamGen: Unlocking Generalization in Robot Learning through Video World Models. [![arXiv](https://img.shields.io/badge/arXiv-2505.12705-b31b1b.svg)](https://arxiv.org/abs/2505.12705) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/dreamgen/)
 
@@ -342,6 +350,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 - **LeWorldModel**, LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels. [![arXiv](https://img.shields.io/badge/arXiv-2603.19312-b31b1b.svg)](https://arxiv.org/abs/2603.19312) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://le-wm.github.io)
 
 - **LPS**, Latent Policy Steering with Embodiment-Agnostic Pretrained World Models. [![arXiv](https://img.shields.io/badge/arXiv-2507.13340-b31b1b.svg)](https://arxiv.org/abs/2507.13340)
+
+- **CoMo**, CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning. [![arXiv](https://img.shields.io/badge/arXiv-2505.17006-b31b1b.svg)](https://arxiv.org/abs/2505.17006) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/MCG-NJU/CoMo)
 
 - **UWM**, Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets. [![arXiv](https://img.shields.io/badge/arXiv-2504.02792-b31b1b.svg)](https://arxiv.org/abs/2504.02792) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://weirdlabuw.github.io/uwm/)
 
