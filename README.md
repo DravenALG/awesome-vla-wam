@@ -67,6 +67,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 [VLA with World Modeling](#world-action-models-from-vlm)
 
+- **Pion**, Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR. [![arXiv](https://img.shields.io/badge/arXiv-2605.19282-b31b1b.svg)](https://arxiv.org/abs/2605.19282) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://chongyu-fan.netlify.app/posts/pion/)
+
 - **MolmoAct2**, MolmoAct2 Action Reasoning Models for Real-World Deployment. [![arXiv](https://img.shields.io/badge/arXiv-2605.02881-b31b1b.svg)](https://arxiv.org/abs/2605.02881) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://allenai.org/blog/molmoact2)
 
 - **RLDX-1**, RLDX-1 Technical Report. [![arXiv](https://img.shields.io/badge/arXiv-2605.03269-b31b1b.svg)](https://arxiv.org/abs/2605.03269) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.rlwrld.ai/en/rldx-1)
@@ -76,6 +78,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 - **StarVLA**, StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing. [![arXiv](https://img.shields.io/badge/arXiv-2604.05014-b31b1b.svg)](https://arxiv.org/abs/2604.05014) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/starVLA/starVLA)
 
 - **VLANeXt**, VLANeXt: Recipes for Building Strong VLA Models. [![arXiv](https://img.shields.io/badge/arXiv-2602.18532-b31b1b.svg)](https://arxiv.org/abs/2602.18532) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dravenalg.github.io/VLANeXt/)
+
+- **LAP**, LAP: Language-Action Pre-Training Enables Zero-shot Cross-Embodiment Transfer. [![arXiv](https://img.shields.io/badge/arXiv-2602.10556-b31b1b.svg)](https://arxiv.org/abs/2602.10556) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lap-vla.github.io)
 
 - **CoVer-VLA**, Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment. [![arXiv](https://img.shields.io/badge/arXiv-2602.12281-b31b1b.svg)](https://arxiv.org/abs/2602.12281) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cover-vla.github.io)
 
@@ -162,6 +166,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 - **WMPO**, WMPO: World Model-based Policy Optimization for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2511.09515-b31b1b.svg)](https://arxiv.org/abs/2511.09515)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://wm-po.github.io)
 
 - **SRPO**, SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2511.15605-b31b1b.svg)](https://arxiv.org/abs/2511.15605)
+
+- **RLinf**, RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation. [![arXiv](https://img.shields.io/badge/arXiv-2509.15965-b31b1b.svg)](https://arxiv.org/abs/2509.15965)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/RLinf/RLinf)
 
 - **World-Env**, World-Env: Leveraging World Model as a Virtual Environment for VLA Post-Training. [![arXiv](https://img.shields.io/badge/arXiv-2509.24948-b31b1b.svg)](https://arxiv.org/abs/2509.24948)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/amap-cvlab/world-env)
 
@@ -275,6 +281,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## World Action Models from VideoGen
 
+- **DeFI**, Disentangled Robot Learning via Separate Forward and Inverse Dynamics Pretraining. [![arXiv](https://img.shields.io/badge/arXiv-2604.16391-b31b1b.svg)](https://arxiv.org/abs/2604.16391) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/LogosRoboticsGroup/DeFi)
+
 - **GigaWorld-Policy**, GigaWorld-Policy: An Efficient Action-Centered World--Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2603.17240-b31b1b.svg)](https://arxiv.org/abs/2603.17240) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gigaai-research.github.io/GigaWorld-Policy/)
 
 - **Fast-WAM**, Fast-WAM: Do World Action Models Need Test-time Future Imagination?. [![arXiv](https://img.shields.io/badge/arXiv-2603.16666-b31b1b.svg)](https://arxiv.org/abs/2603.16666) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuantianyuan01.github.io/FastWAM/)
@@ -344,6 +352,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 
 ## World Action Models from Scratch
+
+- **DiLA**, DiLA: Disentangled Latent Action World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.15725-b31b1b.svg)](https://arxiv.org/abs/2605.15725) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://disentangled-latent-action-world-models.github.io)
 
 - **Being-H0.7**, Being-H0.7: A Latent World-Action Model from Egocentric Videos. [![arXiv](https://img.shields.io/badge/arXiv-2604-b31b1b.svg)](https://research.beingbeyond.com/projects/being-h07/being-h07.pdf) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.beingbeyond.com/being-h07)
 
