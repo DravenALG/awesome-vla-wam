@@ -67,6 +67,10 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 [VLA with World Modeling](#world-action-models-from-vlm)
 
+
+
+- **Qwen-VLA**, Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments. [![arXiv](https://img.shields.io/badge/arXiv-2605.30280-b31b1b.svg)](https://arxiv.org/abs/2605.30280) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://qwen.ai/blog?id=qwenvla)
+
 - **Pion**, Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR. [![arXiv](https://img.shields.io/badge/arXiv-2605.19282-b31b1b.svg)](https://arxiv.org/abs/2605.19282) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://chongyu-fan.netlify.app/posts/pion/)
 
 - **MolmoAct2**, MolmoAct2 Action Reasoning Models for Real-World Deployment. [![arXiv](https://img.shields.io/badge/arXiv-2605.02881-b31b1b.svg)](https://arxiv.org/abs/2605.02881) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://allenai.org/blog/molmoact2)
