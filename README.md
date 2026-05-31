@@ -59,6 +59,7 @@ In short, WAM models are a type of robotics policy that leverages the world mode
 There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. These models are simultaneously both VLA and WAM.
 
 ## Survey
+- Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses. [![arXiv](https://img.shields.io/badge/arXiv-2605.02900-b31b1b.svg)](https://arxiv.org/abs/2605.02900) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/)
 - Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges. [![arXiv](https://img.shields.io/badge/arXiv-2505.04769-b31b1b.svg)](https://arxiv.org/abs/2505.04769) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/Applied-AI-Research-Lab/Vision-Language-Action-Models-Concepts-Progress-Applications-and-Challenges)
 
 - A Survey on Vision-Language-Action Models for Embodied AI. [![arXiv](https://img.shields.io/badge/arXiv-2405.14093-b31b1b.svg)](https://arxiv.org/abs/2405.14093) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/yueen-ma/Awesome-VLA)
