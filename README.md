@@ -68,8 +68,6 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 [VLA with World Modeling](#world-action-models-from-vlm)
 
-
-
 - **Qwen-VLA**, Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments. [![arXiv](https://img.shields.io/badge/arXiv-2605.30280-b31b1b.svg)](https://arxiv.org/abs/2605.30280) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://qwen.ai/blog?id=qwenvla)
 
 - **Pion**, Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR. [![arXiv](https://img.shields.io/badge/arXiv-2605.19282-b31b1b.svg)](https://arxiv.org/abs/2605.19282) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://chongyu-fan.netlify.app/posts/pion/)
@@ -285,6 +283,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 - [⭐️] **ACVP**, Action-Conditional Video Prediction using Deep Networks in Atari Games. [![arXiv](https://img.shields.io/badge/arXiv-1507.08750-b31b1b.svg)](https://arxiv.org/abs/1507.08750)
 
 ## World Action Models from VideoGen
+
+- **Cosmos 3**, Cosmos 3: Omnimodal World Models for Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2606.02800-b31b1b.svg)](https://arxiv.org/abs/2606.02800) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)
 
 - **DeFI**, Disentangled Robot Learning via Separate Forward and Inverse Dynamics Pretraining. [![arXiv](https://img.shields.io/badge/arXiv-2604.16391-b31b1b.svg)](https://arxiv.org/abs/2604.16391) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/LogosRoboticsGroup/DeFi)
 
