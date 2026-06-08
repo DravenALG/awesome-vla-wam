@@ -206,6 +206,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## VLA with Latent Actions
 
+- **LARA**, LARA: Latent Action Representation Alignment for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.07100-b31b1b.svg)](https://arxiv.org/abs/2606.07100) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lmy1001.github.io/ICML26_LARA/)
+
 - **From Pixels to Tokens**, From Pixels to Tokens: A Systematic Study of Latent Action Supervision for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.04678-b31b1b.svg)](https://arxiv.org/abs/2605.04678) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/RUCKBReasoning/From_Pixels_to_Tokens)
 
 - **Motus**, Motus: A Unified Latent Action World Model. [![arXiv](https://img.shields.io/badge/arXiv-2512.13030-b31b1b.svg)](https://arxiv.org/abs/2512.13030) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://motus-robotics.github.io/motus)
@@ -423,6 +425,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 
 ## Traditional Policies
+
+- **Know Your Camera**, Do You Know Where Your Camera Is? View-Invariant Policy Learning with Camera Conditioning. [![arXiv](https://img.shields.io/badge/arXiv-2510.02268-b31b1b.svg)](https://arxiv.org/abs/2510.02268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ripl.github.io/know_your_camera/)
 
 - **HiLAM**, Hierarchical Latent Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2603.05815-b31b1b.svg)](https://arxiv.org/abs/2603.05815)
 
