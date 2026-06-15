@@ -164,6 +164,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## VLA with Reinforcement Learning
 
+- **LaST-R1**, LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning. [![arXiv](https://img.shields.io/badge/arXiv-2604.28192-b31b1b.svg)](https://arxiv.org/abs/2604.28192)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://siriyep.github.io/last-r1/)
+
 - **EVOLVE-VLA**, EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2512.14666-b31b1b.svg)](https://arxiv.org/abs/2512.14666)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://showlab.github.io/EVOLVE-VLA/)
 
 - **WMPO**, WMPO: World Model-based Policy Optimization for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2511.09515-b31b1b.svg)](https://arxiv.org/abs/2511.09515)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://wm-po.github.io)
