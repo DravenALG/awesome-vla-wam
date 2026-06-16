@@ -333,6 +333,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## World Action Models from VLM
 
+- **GAM**, Geometric Action Model for Robot Policy Learning. [![arXiv](https://img.shields.io/badge/arXiv-2606.17046-b31b1b.svg)](https://arxiv.org/abs/2606.17046) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cvlab-kaist.github.io/Geometric-Action-Model/)
+
 - [⭐️] **π0.7**, π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities. [![arXiv](https://img.shields.io/badge/arXiv-2604.15483-b31b1b.svg)](https://arxiv.org/abs/2604.15483) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/blog/pi07)
 
 - **LDA-1B**, LDA-1B: Scaling Latent Dynamics Action Model via Universal Embodied Data Ingestion. [![arXiv](https://img.shields.io/badge/arXiv-2602.12215-b31b1b.svg)](https://arxiv.org/abs/2602.12215) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://pku-epic.github.io/LDA/)
