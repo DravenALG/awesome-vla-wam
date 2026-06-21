@@ -288,6 +288,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## World Action Models from VideoGen
 
+- [⭐️] **HumanScale**, HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining. [![arXiv](https://img.shields.io/badge/arXiv-2606.20521-b31b1b.svg)](https://arxiv.org/abs/2606.20521) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/DAGroup-PKU/HumanNet/)
+
 - [⭐️] **Cosmos 3**, Cosmos 3: Omnimodal World Models for Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2606.02800-b31b1b.svg)](https://arxiv.org/abs/2606.02800) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)
 
 - **τ0-WM**, τ0-WM: A Unified Video-Action World Model for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2606.01027-b31b1b.svg)](https://arxiv.org/abs/2606.01027) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://finch.agibot.com/research/tau0-wm)
@@ -367,6 +369,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 
 ## World Action Models from Scratch
+
+- **Kairos**, Kairos: A Native World Model Stack for Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2606.1653-b31b1b.svg)](https://arxiv.org/abs/2606.16533) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/kairos-agi/kairos-sensenova)
 
 - **DiLA**, DiLA: Disentangled Latent Action World Models. [![arXiv](https://img.shields.io/badge/arXiv-2605.15725-b31b1b.svg)](https://arxiv.org/abs/2605.15725) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://disentangled-latent-action-world-models.github.io)
 
