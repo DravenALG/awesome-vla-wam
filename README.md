@@ -193,6 +193,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## Efficient VLA
 
+- [**ICML 2026**] **FOCA-VLA** FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation [[website](https://focavla.github.io/)] [[paper](https://arxiv.org/abs/2606.20867)] [[code](https://github.com/cair-vinuni/FOCA)]
+
 - **PokeVLA**, PokeVLA: Empowering Pocket-Sized Vision-Language-Action Model with Comprehensive World Knowledge Guidance. [![arXiv](https://img.shields.io/badge/arXiv-2604.20834-b31b1b.svg)](https://arxiv.org/abs/2604.20834) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://getterupper.github.io/PokeVLA)
 
 - **HBVLA**, HBVLA: Pushing 1-Bit Post-Training Quantization for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2602.13710-b31b1b.svg)](https://arxiv.org/abs/2602.13710)
