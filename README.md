@@ -482,6 +482,8 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## Robotics Datasets
 
+- [⭐️] **ABC-130k**, Scalable Behavior Cloning with Open Data, Training, and Evaluation. [![arXiv](https://img.shields.io/badge/arXiv-2606.27375-b31b1b.svg)](https://arxiv.org/abs/2606.27375) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://abc.bot)
+
 - **GM100**, The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents. [![arXiv](https://img.shields.io/badge/arXiv-2601.11421-b31b1b.svg)](https://arxiv.org/abs/2601.11421) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.rhos.ai/research/gm-100)
 
 - **RoboMIND 2.0**, RoboMIND 2.0: A Multimodal, Bimanual Mobile Manipulation Dataset for Generalizable Embodied Intelligence. [![arXiv](https://img.shields.io/badge/arXiv-2512.24653-b31b1b.svg)](https://arxiv.org/abs/2512.24653) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.modelscope.cn/collections/X-Humanoid/RoboMIND20)
