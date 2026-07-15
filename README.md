@@ -522,10 +522,13 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## Benchmark / Environment
 
+- **RoboDojo**, RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies. [![arXiv](https://img.shields.io/badge/arXiv-2607.04434-b31b1b.svg)](https://arxiv.org/abs/2607.04434) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robodojo-benchmark.com)
 
-- **WorldArena**, WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models [![arXiv](https://img.shields.io/badge/arXiv-2602.08971-b31b1b.svg)](https://arxiv.org/abs/2602.08971) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://world-arena.ai)
+- [⭐️] **RoboLab**, RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies. [![arXiv](https://img.shields.io/badge/arXiv-2604.09860-b31b1b.svg)](https://arxiv.org/abs/2604.09860) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/srl/projects/robolab/)
 
-- **LIBERO-Plus**, LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models [![arXiv](https://img.shields.io/badge/arXiv-2510.13626-b31b1b.svg)](https://arxiv.org/abs/2510.13626) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sylvestf.github.io/LIBERO-plus/)
+- **WorldArena**, WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models. [![arXiv](https://img.shields.io/badge/arXiv-2602.08971-b31b1b.svg)](https://arxiv.org/abs/2602.08971) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://world-arena.ai)
+
+- **LIBERO-Plus**, LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2510.13626-b31b1b.svg)](https://arxiv.org/abs/2510.13626) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sylvestf.github.io/LIBERO-plus/)
 
 - **RoboChallenge**, RoboChallenge: Large-scale Real-robot Evaluation of Embodied Policies. [![arXiv](https://img.shields.io/badge/arXiv-2510.17950-b31b1b.svg)](https://arxiv.org/abs/2510.17950) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robochallenge.ai/home)
 
