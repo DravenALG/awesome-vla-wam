@@ -436,11 +436,13 @@ There is an intersection between VLA and WAM: WAMs built upon pretrained VLMs. T
 
 ## Traditional Policies
 
-- **Know Your Camera**, Do You Know Where Your Camera Is? View-Invariant Policy Learning with Camera Conditioning. [![arXiv](https://img.shields.io/badge/arXiv-2510.02268-b31b1b.svg)](https://arxiv.org/abs/2510.02268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ripl.github.io/know_your_camera/)
-
 - **HiLAM**, Hierarchical Latent Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2603.05815-b31b1b.svg)](https://arxiv.org/abs/2603.05815)
 
+- **Know Your Camera**, Do You Know Where Your Camera Is? View-Invariant Policy Learning with Camera Conditioning. [![arXiv](https://img.shields.io/badge/arXiv-2510.02268-b31b1b.svg)](https://arxiv.org/abs/2510.02268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ripl.github.io/know_your_camera/)
+
 - **State-free Policy**, Do You Need Proprioceptive States in Visuomotor Policies?. [![arXiv](https://img.shields.io/badge/arXiv-2509.18644-b31b1b.svg)](https://arxiv.org/abs/2509.18644) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://statefreepolicy.github.io)
+
+- **LBM**, A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2507.05331-b31b1b.svg)](https://arxiv.org/abs/2507.05331) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://reactive-diffusion-policy.github.io)
 
 - **RDP**, Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2503.02881-b31b1b.svg)](https://arxiv.org/abs/2503.02881) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://reactive-diffusion-policy.github.io)
 
