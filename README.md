@@ -109,7 +109,7 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - **StarVLA**, StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing. [![arXiv](https://img.shields.io/badge/arXiv-2604.05014-b31b1b.svg)](https://arxiv.org/abs/2604.05014) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/starVLA/starVLA)
 
-- **VLANeXt**, VLANeXt: Recipes for Building Strong VLA Models. [![arXiv](https://img.shields.io/badge/arXiv-2602.18532-b31b1b.svg)](https://arxiv.org/abs/2602.18532) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dravenalg.github.io/VLANeXt/)
+- [⭐️] **VLANeXt**, VLANeXt: Recipes for Building Strong VLA Models. [![arXiv](https://img.shields.io/badge/arXiv-2602.18532-b31b1b.svg)](https://arxiv.org/abs/2602.18532) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dravenalg.github.io/VLANeXt/)
 
 - **LAP**, LAP: Language-Action Pre-Training Enables Zero-shot Cross-Embodiment Transfer. [![arXiv](https://img.shields.io/badge/arXiv-2602.10556-b31b1b.svg)](https://arxiv.org/abs/2602.10556) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lap-vla.github.io)
 
@@ -270,7 +270,11 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 ## World Action Models
 
-- **Kairos**, Kairos: A Native World Model Stack for Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2606.1653-b31b1b.svg)](https://arxiv.org/abs/2606.16533) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/kairos-agi/kairos-sensenova)
+- **WAM-TTT**, WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time. [![arXiv](https://img.shields.io/badge/arXiv-2607.06988-b31b1b.svg)](https://arxiv.org/abs/2607.06988)
+
+- [⭐️] **Kairos**, Kairos: A Native World Model Stack for Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2606.1653-b31b1b.svg)](https://arxiv.org/abs/2606.16533) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/kairos-agi/kairos-sensenova)
+
+- **ImageWAM**, ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing? [![arXiv](https://img.shields.io/badge/arXiv-2606.19531-b31b1b.svg)](https://arxiv.org/abs/2606.19531) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zhangwenyao1.github.io/ImageWAM/)
 
 - **GAM**, Geometric Action Model for Robot Policy Learning. [![arXiv](https://img.shields.io/badge/arXiv-2606.17046-b31b1b.svg)](https://arxiv.org/abs/2606.17046) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cvlab-kaist.github.io/Geometric-Action-Model/)
 
@@ -281,6 +285,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 - **τ0-WM**, τ0-WM: A Unified Video-Action World Model for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2606.01027-b31b1b.svg)](https://arxiv.org/abs/2606.01027) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://finch.agibot.com/research/tau0-wm)
 
 - **GE-Sim 2.0**, GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2605.27491-b31b1b.svg)](https://arxiv.org/abs/2605.27491) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ge-sim-v2.github.io)
+
+- **Action Images**, Action Images: End-to-End Policy Learning via Multiview Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2604.06168-b31b1b.svg)](https://arxiv.org/abs/2604.06168) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://actionimages.github.io)
 
 - **DeFI**, Disentangled Robot Learning via Separate Forward and Inverse Dynamics Pretraining. [![arXiv](https://img.shields.io/badge/arXiv-2604.16391-b31b1b.svg)](https://arxiv.org/abs/2604.16391) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/LogosRoboticsGroup/DeFi)
 
@@ -396,6 +402,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 
 ## Policies
+
+- **ActionMap**, ActionMap: Robot Policy Learning via Voxel Action Heatmap. [![arXiv](https://img.shields.io/badge/arXiv-2606.06904-b31b1b.svg)](https://arxiv.org/abs/2606.06904) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://showlab.github.io/ActionMap/)
 
 - **Know Your Camera**, Do You Know Where Your Camera Is? View-Invariant Policy Learning with Camera Conditioning. [![arXiv](https://img.shields.io/badge/arXiv-2510.02268-b31b1b.svg)](https://arxiv.org/abs/2510.02268) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ripl.github.io/know_your_camera/)
 
