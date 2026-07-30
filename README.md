@@ -44,7 +44,7 @@
 ## Aim
 This repository provides a curated and systematically organized collection of research on Vision-Language-Action models (VLAs), World Action Models (WAMs), and related approaches. It aims to offer a comprehensive view of recent advances toward robotics foundation models and to clarify the connections among different research directions.
 
-The repository will be continuously updated and refined as the field evolves. Contributions are highly welcome—if you know of relevant papers that should be included, please submit a pull request or open an issue. Join us in maintaining a high-quality VLA, WAM & More research list and advancing the development of robotics foundation models.
+The repository will be continuously updated and refined as the field evolves. Contributions are highly welcome! If you know of relevant papers that should be included, please submit a pull request or open an issue. Join us in maintaining a high-quality VLA, WAM & More research list and advancing the development of robotics foundation models.
 
 
 ## VLA Definition
