@@ -14,7 +14,7 @@
 
 ## Overview
 - 🎯 [Aim](#aim)
-- 📚 [VLA Definition](#vla-definition) | [WAM Definition](#wam-definition) | [LAM Definition](#lam-definition) | [Policy Definition](#policy-definition) | [CaP Definition](#cap-definition)
+- 📚 [VLA Definition](#vla-definition) | [WAM Definition](#wam-definition) | [Policy Definition](#policy-definition) | [LAM Definition](#lam-definition) | [HAP Definition](#hap-definition) | [CaP Definition](#cap-definition)
 - 🔍 [Survey](#survey)
 
 **Vision-Language-Action (VLA) Models**
@@ -29,6 +29,9 @@
 
 **Latent Action Models (LAM)**
 - 🧭 [Latent Action Models](#latent-action-models)
+
+**Human Action Pretraining (HAP)**
+- 💪 [Human Action Pretraining](#human-action-pretraining)
 
 **Code as Policy (CaP)**
 - 🌐 [Code as Policy](#code-as-policy)
@@ -70,6 +73,13 @@ In its broadest sense, a robot policy refers to any model that predicts actions,
 Latent Action Models (LAMs) learn action-like latent representations from unlabeled videos or observation sequences. These latent actions capture the transitions between states and can serve as supervision for policy pretraining. The pretrained model is subsequently finetuned to predict executable robot actions using labeled robot data. A representative example is LAPA.
 
 - [⭐️] **LAPA**, Latent Action Pretraining from Videos. [![arXiv](https://img.shields.io/badge/arXiv-2410.11758-b31b1b.svg)](https://arxiv.org/abs/2410.11758) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://latentactionpretraining.github.io)
+
+## HAP Definition
+
+Human Action Pretraining (HAP) methods pretrain robot policies on human behavior data using explicit action supervision extracted or recorded from human demonstrations, such as wrist motion, hand pose, joint articulation, or full-body trajectories. The pretrained policy is subsequently aligned or finetuned on robot data to produce executable robot actions. A representative example is EgoScale.
+
+- [⭐️] **Egoscale**, EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data. [![arXiv](https://img.shields.io/badge/arXiv-2602.16710-b31b1b.svg)](https://arxiv.org/abs/2602.16710) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/egoscale/)
+
 
 ## CaP Definition
 
@@ -117,8 +127,6 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - **CoVer-VLA**, Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment. [![arXiv](https://img.shields.io/badge/arXiv-2602.12281-b31b1b.svg)](https://arxiv.org/abs/2602.12281) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cover-vla.github.io)
 
-- [⭐️] **Egoscale**, EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data. [![arXiv](https://img.shields.io/badge/arXiv-2602.16710-b31b1b.svg)](https://arxiv.org/abs/2602.16710) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/egoscale/)
-
 - **HoloBrain-0**, HoloBrain-0 Technical Report. [![arXiv](https://img.shields.io/badge/arXiv-2602.12062-b31b1b.svg)](https://arxiv.org/abs/2602.12062) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://horizonrobotics.github.io/robot_lab/holobrain/)
 
 - **ABot-M0**, ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning. [![arXiv](https://img.shields.io/badge/arXiv-2602.11236-b31b1b.svg)](https://arxiv.org/abs/2602.11236) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://amap-cvlab.github.io/ABot-Manipulation/)
@@ -132,8 +140,6 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 - **ACoT-VLA**, ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2601.11404-b31b1b.svg)](https://arxiv.org/abs/2601.11404) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/AgibotTech/ACoT-VLA)
 
 - **EVOLVE-VLA**, EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2512.14666-b31b1b.svg)](https://arxiv.org/abs/2512.14666)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://showlab.github.io/EVOLVE-VLA/)
-
-- [⭐️] Emergence of Human to Robot Transfer in Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2512.22414-b31b1b.svg)](https://arxiv.org/abs/2512.22414) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/research/human_to_robot)
 
 - **FASTer**, FASTer: Toward Efficient Autoregressive Vision Language Action Modeling via Neural Action Tokenization. [![arXiv](https://img.shields.io/badge/arXiv-2512.04952-b31b1b.svg)](https://arxiv.org/abs/2512.04952)
 
@@ -277,8 +283,6 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 - **ImageWAM**, ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing? [![arXiv](https://img.shields.io/badge/arXiv-2606.19531-b31b1b.svg)](https://arxiv.org/abs/2606.19531) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zhangwenyao1.github.io/ImageWAM/)
 
 - **GAM**, Geometric Action Model for Robot Policy Learning. [![arXiv](https://img.shields.io/badge/arXiv-2606.17046-b31b1b.svg)](https://arxiv.org/abs/2606.17046) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cvlab-kaist.github.io/Geometric-Action-Model/)
-
-- [⭐️] **HumanScale**, HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining. [![arXiv](https://img.shields.io/badge/arXiv-2606.20521-b31b1b.svg)](https://arxiv.org/abs/2606.20521) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/DAGroup-PKU/HumanNet/)
 
 - [⭐️] **Cosmos 3**, Cosmos 3: Omnimodal World Models for Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2606.02800-b31b1b.svg)](https://arxiv.org/abs/2606.02800) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)
 
@@ -474,6 +478,16 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 - **CLASP**, Learning what you can do before doing anything. [![arXiv](https://img.shields.io/badge/arXiv-1806.09655-b31b1b.svg)](https://arxiv.org/abs/1806.09655)[![Website](https://img.shields.io/badge/Website-Link-blue)](https://daniilidis-group.github.io/learned_action_spaces/)
 
 - **ILPO**, Imitating Latent Policies from Observation. [![arXiv](https://img.shields.io/badge/arXiv-1805.07914-b31b1b.svg)](https://arxiv.org/abs/1805.07914) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/ashedwards/ILPO)
+
+## Human Action Pretraining
+
+- [⭐️] **HumanScale**, HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining. [![arXiv](https://img.shields.io/badge/arXiv-2606.20521-b31b1b.svg)](https://arxiv.org/abs/2606.20521) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/DAGroup-PKU/HumanNet/)
+
+- **Being-H0.7**, Being-H0.7: A Latent World-Action Model from Egocentric Videos. [![arXiv](https://img.shields.io/badge/arXiv-2604-b31b1b.svg)](https://research.beingbeyond.com/projects/being-h07/being-h07.pdf) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.beingbeyond.com/being-h07)
+
+- [⭐️] **Egoscale**, EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data. [![arXiv](https://img.shields.io/badge/arXiv-2602.16710-b31b1b.svg)](https://arxiv.org/abs/2602.16710) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/egoscale/)
+
+- [⭐️] Emergence of Human to Robot Transfer in Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2512.22414-b31b1b.svg)](https://arxiv.org/abs/2512.22414) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/research/human_to_robot)
 
 ## Code as Policy
 
