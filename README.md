@@ -76,7 +76,7 @@ Latent Action Models (LAMs) learn action-like latent representations from unlabe
 
 ## HAP Definition
 
-Human Action Pretraining (HAP) methods pretrain robot policies on human behavior data using explicit action supervision extracted or recorded from human demonstrations, such as wrist motion, hand pose, joint articulation, or full-body trajectories. The pretrained policy is subsequently aligned or finetuned on robot data to produce executable robot actions. A representative example is EgoScale.
+Human Action Pretraining (HAP) methods pretrain robot policies on human behavior data using explicit action supervision extracted or recorded from human demonstrations, such as hand pose, full-body trajectories or UMI pose. The pretrained policy is subsequently aligned or finetuned on robot data to produce executable robot actions. A representative example is EgoScale.
 
 - [⭐️] **Egoscale**, EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data. [![arXiv](https://img.shields.io/badge/arXiv-2602.16710-b31b1b.svg)](https://arxiv.org/abs/2602.16710) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/egoscale/)
 
@@ -489,7 +489,7 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 ## Human Action Pretraining
 
-- [⭐️] **Xiaomi-Robotics-1**, Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories. [![arXiv](https://img.shields.io/badge/arXiv-2607.15330-b31b1b.svg)](https://arxiv.org/abs/2607.15330) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
+- **Xiaomi-Robotics-1**, Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories. [![arXiv](https://img.shields.io/badge/arXiv-2607.15330-b31b1b.svg)](https://arxiv.org/abs/2607.15330) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
 
 - [⭐️] **HumanScale**, HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining. [![arXiv](https://img.shields.io/badge/arXiv-2606.20521-b31b1b.svg)](https://arxiv.org/abs/2606.20521) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/DAGroup-PKU/HumanNet/)
 
