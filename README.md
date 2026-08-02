@@ -278,6 +278,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - **WAM-TTT**, WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time. [![arXiv](https://img.shields.io/badge/arXiv-2607.06988-b31b1b.svg)](https://arxiv.org/abs/2607.06988)
 
+- **LaWAM**, LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2606.15768-b31b1b.svg)](https://arxiv.org/html/2606.15768) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rlinf.github.io/LaWAM/)
+
 - [⭐️] **Kairos**, Kairos: A Native World Model Stack for Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2606.1653-b31b1b.svg)](https://arxiv.org/abs/2606.16533) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/kairos-agi/kairos-sensenova)
 
 - **ImageWAM**, ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing? [![arXiv](https://img.shields.io/badge/arXiv-2606.19531-b31b1b.svg)](https://arxiv.org/abs/2606.19531) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zhangwenyao1.github.io/ImageWAM/)
@@ -287,6 +289,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 - [⭐️] **Cosmos 3**, Cosmos 3: Omnimodal World Models for Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2606.02800-b31b1b.svg)](https://arxiv.org/abs/2606.02800) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)
 
 - **τ0-WM**, τ0-WM: A Unified Video-Action World Model for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2606.01027-b31b1b.svg)](https://arxiv.org/abs/2606.01027) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://finch.agibot.com/research/tau0-wm)
+
+- **WAM-RL**, WAM-RL: World-Action Model Reinforcement Learning with Reconstruction Rewards and Online Video SFT. [![arXiv](https://img.shields.io/badge/arXiv-2606.17906-b31b1b.svg)](https://arxiv.org/abs/2606.17906)
 
 - **GE-Sim 2.0**, GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2605.27491-b31b1b.svg)](https://arxiv.org/abs/2605.27491) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ge-sim-v2.github.io)
 
@@ -418,6 +422,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 - **Adapt Your Body**, Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning. [![arXiv](https://img.shields.io/badge/arXiv-2506.23944-b31b1b.svg)](https://arxiv.org/abs/2506.23944v1)
 
 - **RDP**, Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2503.02881-b31b1b.svg)](https://arxiv.org/abs/2503.02881) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://reactive-diffusion-policy.github.io)
+
+- [⭐️] Data Scaling Laws in Imitation Learning for Robotic Manipulationy. [![arXiv](https://img.shields.io/badge/arXiv-2410.18647-b31b1b.svg)](https://arxiv.org/abs/2410.18647)
 
 - [⭐️] **RDT-1B**, RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2410.07864-b31b1b.svg)](https://arxiv.org/abs/2410.07864) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rdt-robotics.github.io/rdt-robotics/)
 
