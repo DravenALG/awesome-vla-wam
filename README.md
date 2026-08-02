@@ -292,6 +292,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - **WAM-RL**, WAM-RL: World-Action Model Reinforcement Learning with Reconstruction Rewards and Online Video SFT. [![arXiv](https://img.shields.io/badge/arXiv-2606.17906-b31b1b.svg)](https://arxiv.org/abs/2606.17906)
 
+- **AdaJEPA**, AdaJEPA: An Adaptive Latent World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.32026-b31b1b.svg)](https://arxiv.org/abs/2606.32026) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://agenticlearning.ai/adajepa/)
+
 - **GE-Sim 2.0**, GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2605.27491-b31b1b.svg)](https://arxiv.org/abs/2605.27491) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ge-sim-v2.github.io)
 
 - **Action Images**, Action Images: End-to-End Policy Learning via Multiview Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2604.06168-b31b1b.svg)](https://arxiv.org/abs/2604.06168) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://actionimages.github.io)
@@ -494,6 +496,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 - [⭐️] **Egoscale**, EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data. [![arXiv](https://img.shields.io/badge/arXiv-2602.16710-b31b1b.svg)](https://arxiv.org/abs/2602.16710) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/egoscale/)
 
 - [⭐️] Emergence of Human to Robot Transfer in Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2512.22414-b31b1b.svg)](https://arxiv.org/abs/2512.22414) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/research/human_to_robot)
+
+- [⭐️] **EgoVLA**, EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos. [![arXiv](https://img.shields.io/badge/arXiv-2507.12440-b31b1b.svg)](https://arxiv.org/abs/2507.12440) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rchalyang.github.io/EgoVLA/)
 
 ## Code as Policy
 
