@@ -489,6 +489,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 ## Human Action Pretraining
 
+- [⭐️] **Xiaomi-Robotics-1**, Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories. [![arXiv](https://img.shields.io/badge/arXiv-2607.15330-b31b1b.svg)](https://arxiv.org/abs/2607.15330) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
+
 - [⭐️] **HumanScale**, HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining. [![arXiv](https://img.shields.io/badge/arXiv-2606.20521-b31b1b.svg)](https://arxiv.org/abs/2606.20521) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/DAGroup-PKU/HumanNet/)
 
 - **HumanEgo**, HumanEgo: Zero-Shot Robot Learning from Minutes of Human Egocentric Videos. [![arXiv](https://img.shields.io/badge/arXiv-2605.24934-b31b1b.svg)](https://arxiv.org/abs/2605.24934) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://humanego-ai.github.io)
