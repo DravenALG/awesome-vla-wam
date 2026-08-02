@@ -276,7 +276,9 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 ## World Action Models
 
-- **WAM-TTT**, WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time. [![arXiv](https://img.shields.io/badge/arXiv-2607.06988-b31b1b.svg)](https://arxiv.org/abs/2607.06988)
+- **FlowWAM**, FlowWAM: Optical Flow as a Unified Action Representation for World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2607.13017-b31b1b.svg)](https://arxiv.org/abs/2607.13017) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flow-wam.github.io)
+
+- **WAM-TTT**, WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time. [![arXiv](https://img.shields.io/badge/arXiv-2607.06988-b31b1b.svg)](https://arxiv.org/abs/2607.06988) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flow-wam.github.io)
 
 - **LaWAM**, LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2606.15768-b31b1b.svg)](https://arxiv.org/html/2606.15768) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rlinf.github.io/LaWAM/)
 
@@ -287,6 +289,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 - **GAM**, Geometric Action Model for Robot Policy Learning. [![arXiv](https://img.shields.io/badge/arXiv-2606.17046-b31b1b.svg)](https://arxiv.org/abs/2606.17046) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cvlab-kaist.github.io/Geometric-Action-Model/)
 
 - [⭐️] **Cosmos 3**, Cosmos 3: Omnimodal World Models for Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2606.02800-b31b1b.svg)](https://arxiv.org/abs/2606.02800) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)
+
+- **MemoryWAM**, MemoryWAM: Efficient World Action Modeling with Persistent Memory. [![arXiv](https://img.shields.io/badge/arXiv-22606.20562-b31b1b.svg)](https://arxiv.org/abs/2606.20562) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yangsizhe.github.io/MemoryWAM/)
 
 - **τ0-WM**, τ0-WM: A Unified Video-Action World Model for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2606.01027-b31b1b.svg)](https://arxiv.org/abs/2606.01027) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://finch.agibot.com/research/tau0-wm)
 
