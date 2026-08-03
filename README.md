@@ -276,6 +276,10 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 ## World Action Models
 
+- **LingBot-VA 2**, Native Video-Action Pretraining for Generalizable Robot Control. [![arXiv](https://img.shields.io/badge/arXiv-22607.08639-b31b1b.svg)](https://arxiv.org/abs/2607.08639v1) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-va-v2)
+
+- **FlowWAM**, FlowWAM: Optical Flow as a Unified Action Representation for World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2607.13017-b31b1b.svg)](https://arxiv.org/abs/2607.13017) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flow-wam.github.io)
+
 - **FlowWAM**, FlowWAM: Optical Flow as a Unified Action Representation for World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2607.13017-b31b1b.svg)](https://arxiv.org/abs/2607.13017) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flow-wam.github.io)
 
 - **WAM-TTT**, WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time. [![arXiv](https://img.shields.io/badge/arXiv-2607.06988-b31b1b.svg)](https://arxiv.org/abs/2607.06988) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flow-wam.github.io)
@@ -312,7 +316,7 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - **GigaWorld-Policy**, GigaWorld-Policy: An Efficient Action-Centered World--Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2603.17240-b31b1b.svg)](https://arxiv.org/abs/2603.17240) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gigaai-research.github.io/GigaWorld-Policy/)
 
-- **Fast-WAM**, Fast-WAM: Do World Action Models Need Test-time Future Imagination?. [![arXiv](https://img.shields.io/badge/arXiv-2603.16666-b31b1b.svg)](https://arxiv.org/abs/2603.16666) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuantianyuan01.github.io/FastWAM/)
+- [⭐️] **Fast-WAM**, Fast-WAM: Do World Action Models Need Test-time Future Imagination?. [![arXiv](https://img.shields.io/badge/arXiv-2603.16666-b31b1b.svg)](https://arxiv.org/abs/2603.16666) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://yuantianyuan01.github.io/FastWAM/)
 
 - Do World Action Models Generalize Better than VLAs? A Robustness Study. [![arXiv](https://img.shields.io/badge/arXiv-2603.22078-b31b1b.svg)](https://arxiv.org/abs/2603.22078)
 
@@ -330,7 +334,7 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - [⭐️] **World-VLA-Loop**, World-VLA-Loop: Closed-Loop Learning of Video World Model and VLA Policy. [![arXiv](https://img.shields.io/badge/arXiv-2602.06508-b31b1b.svg)](https://arxiv.org/abs/2602.06508) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://showlab.github.io/World-VLA-Loop/)
 
-- **Lingbot-VA**, Causal World Modeling for Robot Control. [![arXiv](https://img.shields.io/badge/arXiv-2601.21998-b31b1b.svg)](https://arxiv.org/abs/2601.21998) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-va)
+- [⭐️] **Lingbot-VA**, Causal World Modeling for Robot Control. [![arXiv](https://img.shields.io/badge/arXiv-2601.21998-b31b1b.svg)](https://arxiv.org/abs/2601.21998) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-va)
 
 - **mimic-video**, mimic-video: Video-Action Models for Generalizable Robot Control Beyond VLAs. [![arXiv](https://img.shields.io/badge/arXiv-2512.15692-b31b1b.svg)](https://arxiv.org/abs/2512.15692) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://mimic-video.github.io)
 
