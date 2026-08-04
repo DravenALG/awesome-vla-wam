@@ -41,6 +41,7 @@
 - 👨🏻 [Ego Human Datasets](#ego-human-datasets)
 - 📊 [Benchmark / Environment](#benchmark--environment)
 - 🏞️ [Physics Engine](#physics-engine)
+- 🧑‍💻 [Software](#software)
 - 🖥️ [Hardware](#hardware)
 
 
