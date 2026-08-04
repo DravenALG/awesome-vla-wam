@@ -289,6 +289,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 ## World Action Models
 
+- **Temporal Ratio**, Understanding and Mitigating the Video-Action Generalization Gap via Temporal Ratio. [![arXiv](https://img.shields.io/badge/arXiv-2607.08127-b31b1b.svg)](https://arxiv.org/abs/2607.08127) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://umishra.me/temporal-ratio/)
+
 - **LingBot-VA 2**, Native Video-Action Pretraining for Generalizable Robot Control. [![arXiv](https://img.shields.io/badge/arXiv-22607.08639-b31b1b.svg)](https://arxiv.org/abs/2607.08639v1) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://technology.robbyant.com/lingbot-va-v2)
 
 - **FlowWAM**, FlowWAM: Optical Flow as a Unified Action Representation for World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2607.13017-b31b1b.svg)](https://arxiv.org/abs/2607.13017) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flow-wam.github.io)
