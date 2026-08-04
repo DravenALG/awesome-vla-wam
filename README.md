@@ -99,13 +99,17 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 ## VLA Models
 
+- [⭐️] **Xiaomi-Robotics-1**, Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories. [![arXiv](https://img.shields.io/badge/arXiv-2607.15330-b31b1b.svg)](https://arxiv.org/abs/2607.15330) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robotics.xiaomi.com/xiaomi-robotics-1.html)
+
+- [⭐️] **Qwen-RobotManip**, Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.17846-b31b1b.svg)](https://arxiv.org/abs/2606.17846) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://qwen.ai/blog?id=qwen-robotmanip)
+
 - **FOCA-VLA** FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation. [![arXiv](https://img.shields.io/badge/arXiv-2606.20867-b31b1b.svg)](https://arxiv.org/abs/2606.20867) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://focavla.github.io/)
 
 - **Qwen-VLA**, Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments. [![arXiv](https://img.shields.io/badge/arXiv-2605.30280-b31b1b.svg)](https://arxiv.org/abs/2605.30280) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://qwen.ai/blog?id=qwenvla)
 
 - **Pion**, Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR. [![arXiv](https://img.shields.io/badge/arXiv-2605.19282-b31b1b.svg)](https://arxiv.org/abs/2605.19282) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://chongyu-fan.netlify.app/posts/pion/)
 
-- **MolmoAct2**, MolmoAct2 Action Reasoning Models for Real-World Deployment. [![arXiv](https://img.shields.io/badge/arXiv-2605.02881-b31b1b.svg)](https://arxiv.org/abs/2605.02881) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://allenai.org/blog/molmoact2)
+- [⭐️] **MolmoAct2**, MolmoAct2 Action Reasoning Models for Real-World Deployment. [![arXiv](https://img.shields.io/badge/arXiv-2605.02881-b31b1b.svg)](https://arxiv.org/abs/2605.02881) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://allenai.org/blog/molmoact2)
 
 - **RLDX-1**, RLDX-1 Technical Report. [![arXiv](https://img.shields.io/badge/arXiv-2605.03269-b31b1b.svg)](https://arxiv.org/abs/2605.03269) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.rlwrld.ai/en/rldx-1)
 
