@@ -246,6 +246,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 ## World Models
 
+- **Qwen-RobotWorld**, Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2606.17030-b31b1b.svg)](https://arxiv.org/abs/2606.17030) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://qwen.ai/blog?id=qwen-robotworld)
+
 - [⭐️] **DreamDojo**, DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos. [![arXiv](https://img.shields.io/badge/arXiv-2602.06949-b31b1b.svg)](https://arxiv.org/abs/2602.06949) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dreamdojo-world.github.io)
 
 - **PointWorld**, PointWorld: Scaling 3D World Models for In-The-Wild Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2601.03782-b31b1b.svg)](https://arxiv.org/abs/2601.03782) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://point-world.github.io)
@@ -285,6 +287,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 - **WAM-TTT**, WAM-TTT: Steering World-Action Models by Watching Human Play at Test Time. [![arXiv](https://img.shields.io/badge/arXiv-2607.06988-b31b1b.svg)](https://arxiv.org/abs/2607.06988) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flow-wam.github.io)
 
 - **LaWAM**, LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies. [![arXiv](https://img.shields.io/badge/arXiv-2606.15768-b31b1b.svg)](https://arxiv.org/html/2606.15768) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rlinf.github.io/LaWAM/)
+
+- **Next Forcing**, Next Forcing: Causal World Modeling with Multi-Chunk Prediction. [![arXiv](https://img.shields.io/badge/arXiv-2606.11187-b31b1b.svg)](https://arxiv.org/abs/2606.11187) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://gangweix.github.io/next-forcing/)
 
 - **Flash-WAM**, Flash-WAM: Modality-Aware Distillation for World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.05254-b31b1b.svg)](https://arxiv.org/abs/2606.05254) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://flashwam.github.io)
 
