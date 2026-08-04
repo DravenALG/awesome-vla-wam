@@ -574,6 +574,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 ## Ego Human Datasets
 
+- **ActiveMimic**, ActiveMimic: Egocentric Video Pretraining with Active Perception. [![arXiv](https://img.shields.io/badge/arXiv-2606.06194-b31b1b.svg)](https://arxiv.org/abs/2606.06194) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://activemimic.github.io)
+
 - **HumanNet**, HumanNet: Scaling Human-centric Video Learning to One Million Hours. [![arXiv](https://img.shields.io/badge/arXiv-2605.06747-b31b1b.svg)](https://arxiv.org/abs/2605.06747) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dagroup-pku.github.io/HumanNet)
 
 - **EgoVerse**, EgoVerse: An Egocentric Human Dataset for Robot Learning from Around the World. [![arXiv](https://img.shields.io/badge/arXiv-2604.07607-b31b1b.svg)](https://arxiv.org/abs/2604.07607) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://egoverse.ai)
