@@ -624,7 +624,7 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - **Embodied.cpp**, Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots. [![arXiv](https://img.shields.io/badge/arXiv-2607.02501-b31b1b.svg)](https://arxiv.org/abs/2607.02501) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/SEU-PAISys/Embodied.cpp)
 
-- [⭐️] **ROS**, Robot Operating System. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.ros.org)
+- [⭐️] **ROS**, Robot Operating System. [![arXiv](https://img.shields.io/badge/arXiv-2009-b31b1b.svg)](https://ai.stanford.edu/~mquigley/papers/icra2009-ros.pdf) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.ros.org)
 
 ## Hardware
 
