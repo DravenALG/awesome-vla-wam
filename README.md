@@ -620,6 +620,12 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - [⭐️] **PyBullet**. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://pybullet.org/wordpress/)
 
+## Software
+
+- **Embodied.cpp**, Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots. [![arXiv](https://img.shields.io/badge/arXiv-2607.02501-b31b1b.svg)](https://arxiv.org/abs/2607.02501) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/SEU-PAISys/Embodied.cpp)
+
+- [⭐️] **ROS**, Robot Operating System. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.ros.org)
+
 ## Hardware
 
 - **DexUMI**, DexUMI: Using Human Hand as the Universal Manipulation Interface for Dexterous Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2505.21864-b31b1b.svg)](https://arxiv.org/abs/2505.21864) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dex-umi.github.io)
