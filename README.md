@@ -323,6 +323,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - **AdaJEPA**, AdaJEPA: An Adaptive Latent World Model. [![arXiv](https://img.shields.io/badge/arXiv-2606.32026-b31b1b.svg)](https://arxiv.org/abs/2606.32026) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://agenticlearning.ai/adajepa/)
 
+- **GaussianDream**, GaussianDream: A Feed-Forward 3D Gaussian World Model for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2605.20752-b31b1b.svg)](https://arxiv.org/abs/2605.20752) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/TuojingAI/GaussianDream)
+
 - **GE-Sim 2.0**, GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2605.27491-b31b1b.svg)](https://arxiv.org/abs/2605.27491) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ge-sim-v2.github.io)
 
 - **Action Images**, Action Images: End-to-End Policy Learning via Multiview Video Generation. [![arXiv](https://img.shields.io/badge/arXiv-2604.06168-b31b1b.svg)](https://arxiv.org/abs/2604.06168) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://actionimages.github.io)
@@ -477,6 +479,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 - [⭐️] **PerAct**, Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2209.05451-b31b1b.svg)](https://arxiv.org/abs/2209.05451) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://peract.github.io)
 
 ## Latent Action Models
+
+- **LAWM-3D**, LAWM-3D: Learning 3D-Aware Latent Actions from Human Videos for Generalizable Robot World Models. [![arXiv](https://img.shields.io/badge/arXiv-2608.05706-b31b1b.svg)](https://arxiv.org/abs/2608.05706)
 
 - [⭐️] **LARA**, LARA: Latent Action Representation Alignment for Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2606.07100-b31b1b.svg)](https://arxiv.org/abs/2606.07100) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://lmy1001.github.io/ICML26_LARA/)
 
