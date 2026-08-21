@@ -590,7 +590,7 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 ## Ego Human Datasets
 
-- **Open-AoE**, Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning. [![arXiv](https://img.shields.io/badge/arXiv-2607.14183-b31b1b.svg)](https://arxiv.org/abs/2607.14183) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/ant-research/Open-AoE)
+- [⭐️] **Open-AoE**, Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning. [![arXiv](https://img.shields.io/badge/arXiv-2607.14183-b31b1b.svg)](https://arxiv.org/abs/2607.14183) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/ant-research/Open-AoE)
 
 - **HiFi-UMI**, HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone. [![arXiv](https://img.shields.io/badge/arXiv-2607.25895-b31b1b.svg)](https://arxiv.org/abs/2607.25895) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cloud.simpleai.tech/simple-world-lab/hifi-umi/)
 
