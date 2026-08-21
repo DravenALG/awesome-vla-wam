@@ -540,6 +540,10 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 ## Code as Policy
 
+- **OpenETA**, ETA: A New Agentic Paradigm for Embodied Tasks. [![arXiv](https://img.shields.io/badge/arXiv-2608.03924-b31b1b.svg)](https://arxiv.org/abs/2608.03924) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://openmoss.ai/OpenETA/)
+
+- [⭐️] **Gemini Robotics 2**, Gemini Robotics 2: The intelligence layer to power any kind of robot. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/gemini-robotics/)
+
 - **Harness VLA**, Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents. [![arXiv](https://img.shields.io/badge/arXiv-2607.08448-b31b1b.svg)](https://arxiv.org/abs/2607.08448) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://harnessvla.github.io)
 
 - **CaP-X**, CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2603.22435-b31b1b.svg)](https://arxiv.org/abs/2603.22435) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://capgym.github.io)
