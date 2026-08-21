@@ -590,6 +590,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 ## Ego Human Datasets
 
+- **Open-AoE**, Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning. [![arXiv](https://img.shields.io/badge/arXiv-2607.14183-b31b1b.svg)](https://arxiv.org/abs/2607.14183) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/ant-research/Open-AoE)
+
 - **HiFi-UMI**, HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone. [![arXiv](https://img.shields.io/badge/arXiv-2607.25895-b31b1b.svg)](https://arxiv.org/abs/2607.25895) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://cloud.simpleai.tech/simple-world-lab/hifi-umi/)
 
 - **ActiveMimic**, ActiveMimic: Egocentric Video Pretraining with Active Perception. [![arXiv](https://img.shields.io/badge/arXiv-2606.06194-b31b1b.svg)](https://arxiv.org/abs/2606.06194) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://activemimic.github.io)
@@ -597,6 +599,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 - **HumanNet**, HumanNet: Scaling Human-centric Video Learning to One Million Hours. [![arXiv](https://img.shields.io/badge/arXiv-2605.06747-b31b1b.svg)](https://arxiv.org/abs/2605.06747) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dagroup-pku.github.io/HumanNet)
 
 - **EgoVerse**, EgoVerse: An Egocentric Human Dataset for Robot Learning from Around the World. [![arXiv](https://img.shields.io/badge/arXiv-2604.07607-b31b1b.svg)](https://arxiv.org/abs/2604.07607) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://egoverse.ai)
+
+- **xperience-10m**, Xperience-10M: The Largest Human Xperience Dataset. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://ropedia.com/blog/20260316_xperience_10m)
 
 - [⭐️] **EgoDex**, EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video. [![arXiv](https://img.shields.io/badge/arXiv-2505.11709-b31b1b.svg)](https://arxiv.org/abs/2505.11709) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/apple/ml-egodex)
 
