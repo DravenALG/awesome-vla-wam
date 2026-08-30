@@ -116,7 +116,7 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - **RLDX-1**, RLDX-1 Technical Report. [![arXiv](https://img.shields.io/badge/arXiv-2605.03269-b31b1b.svg)](https://arxiv.org/abs/2605.03269) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.rlwrld.ai/en/rldx-1)
 
-- **GridS** See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2605.11817-b31b1b.svg)](https://arxiv.org/abs/2605.11817) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/Fediory/Grid-Sampler)
+- **GridS**, See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model. [![arXiv](https://img.shields.io/badge/arXiv-2605.11817-b31b1b.svg)](https://arxiv.org/abs/2605.11817) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/Fediory/Grid-Sampler)
 
 - [⭐️] **π0.7**, π0.7: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities. [![arXiv](https://img.shields.io/badge/arXiv-2604.15483-b31b1b.svg)](https://arxiv.org/abs/2604.15483) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.pi.website/blog/pi07)
 
