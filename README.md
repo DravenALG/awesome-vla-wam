@@ -15,7 +15,6 @@
 ## Overview
 - 🎯 [Aim](#aim)
 - 📚 [VLA Definition](#vla-definition) | [WAM Definition](#wam-definition) | [Policy Definition](#policy-definition) | [LAM Definition](#lam-definition) | [HAP Definition](#hap-definition) | [CaP Definition](#cap-definition)
-- 🔍 [Survey](#survey)
 
 **Vision-Language-Action (VLA) Models**
 - 🧠 [VLA Models](#vla-models)
@@ -37,6 +36,7 @@
 - 🌐 [Code as Policy](#code-as-policy)
 
 **Resources**
+- 🔍 [Survey](#survey)
 - 💾 [Robotics Datasets](#robotics-datasets)
 - 👨🏻 [Ego Human Datasets](#ego-human-datasets)
 - 📊 [Benchmark / Environment](#benchmark--environment)
@@ -87,16 +87,6 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as high-level planners to generate executable programs that compose perception modules and low-level robot policys (traditional control API or policy models) for embodied task execution. This concept was introduced by Code as Policies.
 
 - [⭐️] **Code as Policies**, Code as Policies: Language Model Programs for Embodied Control. [![arXiv](https://img.shields.io/badge/arXiv-2209.07753-b31b1b.svg)](https://arxiv.org/abs/2209.07753) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://code-as-policies.github.io)
-
-## Survey
-
-- Data Pyramid for Embodied Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2607.24744-b31b1b.svg)](https://arxiv.org/abs/2607.24744) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://jasper-aaa.github.io/embodied-data-pyramid/)
-
-- Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses. [![arXiv](https://img.shields.io/badge/arXiv-2605.02900-b31b1b.svg)](https://arxiv.org/abs/2605.02900) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/)
-
-- Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges. [![arXiv](https://img.shields.io/badge/arXiv-2505.04769-b31b1b.svg)](https://arxiv.org/abs/2505.04769) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/Applied-AI-Research-Lab/Vision-Language-Action-Models-Concepts-Progress-Applications-and-Challenges)
-
-- A Survey on Vision-Language-Action Models for Embodied AI. [![arXiv](https://img.shields.io/badge/arXiv-2405.14093-b31b1b.svg)](https://arxiv.org/abs/2405.14093) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/yueen-ma/Awesome-VLA)
 
 ## VLA Models
 
@@ -558,6 +548,17 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - [⭐️] **Zero-Shot Planner**, Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents. [![arXiv](https://img.shields.io/badge/arXiv-2201.07207-b31b1b.svg)](https://arxiv.org/abs/2201.07207) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wenlonghuang.com/language-planner/)
 
+## Survey
+
+- Data Pyramid for Embodied Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2607.24744-b31b1b.svg)](https://arxiv.org/abs/2607.24744) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://jasper-aaa.github.io/embodied-data-pyramid/)
+
+- Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses. [![arXiv](https://img.shields.io/badge/arXiv-2605.02900-b31b1b.svg)](https://arxiv.org/abs/2605.02900) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://x-zheng16.github.io/Awesome-Embodied-AI-Safety/)
+
+- Vision-Language-Action (VLA) Models: Concepts, Progress, Applications and Challenges. [![arXiv](https://img.shields.io/badge/arXiv-2505.04769-b31b1b.svg)](https://arxiv.org/abs/2505.04769) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/Applied-AI-Research-Lab/Vision-Language-Action-Models-Concepts-Progress-Applications-and-Challenges)
+
+- Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms. [![arXiv](https://img.shields.io/badge/arXiv-2604.23775-b31b1b.svg)](https://arxiv.org/abs/2604.23775) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/LiQiiiii/Awesome-VLA-Safety)
+
+- A Survey on Vision-Language-Action Models for Embodied AI. [![arXiv](https://img.shields.io/badge/arXiv-2405.14093-b31b1b.svg)](https://arxiv.org/abs/2405.14093) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/yueen-ma/Awesome-VLA)
 
 ## Robotics Datasets
 
