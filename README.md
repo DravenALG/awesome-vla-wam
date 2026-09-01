@@ -98,6 +98,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - **FOCA-VLA** FOCA: Future-Oriented Conditioning for Data-Efficient Vision-Language-Action Adaptation. [![arXiv](https://img.shields.io/badge/arXiv-2606.20867-b31b1b.svg)](https://arxiv.org/abs/2606.20867) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://focavla.github.io/)
 
+- **Provael**, Provael: an adversarial evaluation harness for vision-language-action policies. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/provael/provael)
+
 - **Qwen-VLA**, Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments. [![arXiv](https://img.shields.io/badge/arXiv-2605.30280-b31b1b.svg)](https://arxiv.org/abs/2605.30280) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://qwen.ai/blog?id=qwenvla)
 
 - **Pion**, Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR. [![arXiv](https://img.shields.io/badge/arXiv-2605.19282-b31b1b.svg)](https://arxiv.org/abs/2605.19282) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://chongyu-fan.netlify.app/posts/pion/)
