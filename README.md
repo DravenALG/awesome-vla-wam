@@ -620,6 +620,8 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - **PAI-Bench**, PAI-Bench: A Comprehensive Benchmark For Physical AI. [![arXiv](https://img.shields.io/badge/arXiv-2512.01989-b31b1b.svg)](https://arxiv.org/abs/2512.01989) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/SHI-Labs/physical-ai-bench)
 
+- **Provael**, Provael: an adversarial evaluation harness for vision-language-action policies (software, no paper). Perturbs the instruction and camera observation a policy receives in simulation and reports attack success rate with a task-clustered 95% CI beside a matched benign control. LIBERO and Meta-World suites, SmolVLA / pi0 / pi05 / pi0fast / OpenVLA / GR00T / openpi adapters. [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21984184-blue)](https://doi.org/10.5281/zenodo.21984184) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/provael/provael)
+
 - **LIBERO-Plus**, LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2510.13626-b31b1b.svg)](https://arxiv.org/abs/2510.13626) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://sylvestf.github.io/LIBERO-plus/)
 
 - **RoboChallenge**, RoboChallenge: Large-scale Real-robot Evaluation of Embodied Policies. [![arXiv](https://img.shields.io/badge/arXiv-2510.17950-b31b1b.svg)](https://arxiv.org/abs/2510.17950) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robochallenge.ai/home)
