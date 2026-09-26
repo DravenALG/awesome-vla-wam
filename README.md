@@ -14,7 +14,7 @@
 
 ## Overview
 - 🎯 [Aim](#aim)
-- 📚 [VLA Definition](#vla-definition) | [WAM Definition](#wam-definition) | [Policy Definition](#policy-definition) | [LAM Definition](#lam-definition) | [HAP Definition](#hap-definition) | [CaP Definition](#cap-definition)
+- 📚 [VLA Definition](#vla-definition) | [WAM Definition](#wam-definition) | [Robotic Agentics Definition](#robotic-agentics-definition) | [Policy Definition](#policy-definition) | [LAM Definition](#lam-definition) | [HAP Definition](#hap-definition)
 
 **Vision-Language-Action (VLA) Models**
 - 🧠 [VLA Models](#vla-models)
@@ -32,8 +32,8 @@
 **Human Action Pretraining (HAP)**
 - 💪 [Human Action Pretraining](#human-action-pretraining)
 
-**Code as Policy (CaP)**
-- 🌐 [Code as Policy](#code-as-policy)
+**Robotic Agentics**
+- 🌐 [Robotic Agentics](#robotic-agentics)
 
 **Resources**
 - 🔍 [Survey](#survey)
@@ -63,6 +63,12 @@ World Action Models (WAMs) are robot policies that explicitly leverage world mod
 
 VLAs and WAMs are not mutually exclusive. A WAM built upon a pretrained VLM can simultaneously be considered both a VLA and a WAM.
 
+## Robotic Agentics Definition
+
+Robotic Agentics refers to a class of robot policies that use an Agentic Harness to control robots. Depending on the tools used, these methods can be grouped into two categories: those that compose a suite of perception and control algorithms as tools, such as Code as Policies and CaP-X, and those that directly use large models, such as Show-Harness and GPT6-Astra.
+
+- [⭐️] **Code as Policies**, Code as Policies: Language Model Programs for Embodied Control. [![arXiv](https://img.shields.io/badge/arXiv-2209.07753-b31b1b.svg)](https://arxiv.org/abs/2209.07753) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://code-as-policies.github.io)
+
 ## Policy Definition
 
 In its broadest sense, a robot policy refers to any model that predicts actions, including VLAs and WAMs. In this repository, however, the Policy category specifically refers to robot policies trained primarily from scratch on robot data for action prediction, without relying on pretrained VLMs or explicit visual (2D/Video/3D) generation pretraining. A representative example is Diffusion Policy.
@@ -81,12 +87,6 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 - [⭐️] **Egoscale**, EgoScale: Scaling Dexterous Manipulation with Diverse Egocentric Human Data. [![arXiv](https://img.shields.io/badge/arXiv-2602.16710-b31b1b.svg)](https://arxiv.org/abs/2602.16710) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/gear/egoscale/)
 
-
-## CaP Definition
-
-Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as high-level planners to generate executable programs that compose perception modules and low-level robot policys (traditional control API or policy models) for embodied task execution. This concept was introduced by Code as Policies.
-
-- [⭐️] **Code as Policies**, Code as Policies: Language Model Programs for Embodied Control. [![arXiv](https://img.shields.io/badge/arXiv-2209.07753-b31b1b.svg)](https://arxiv.org/abs/2209.07753) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://code-as-policies.github.io)
 
 ## VLA Models
 
@@ -455,6 +455,27 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - [⭐️] **Dyna**, Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming. [![Paper](https://img.shields.io/badge/Paper-Link-blue)](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9781558601413500304)
 
+## Robotic Agentics
+
+- [⭐️] **Show-Harness**, Show-Harness: Just a VLM Agent Can Play Robots. [![arXiv](https://img.shields.io/badge/arXiv-2609.10522-b31b1b.svg)](https://arxiv.org/abs/2609.10522) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://showlab.github.io/Show-Harness/)
+
+- **OpenETA**, ETA: A New Agentic Paradigm for Embodied Tasks. [![arXiv](https://img.shields.io/badge/arXiv-2608.03924-b31b1b.svg)](https://arxiv.org/abs/2608.03924) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://openmoss.ai/OpenETA/)
+
+- [⭐️] **Gemini Robotics 2**, Gemini Robotics 2: The intelligence layer to power any kind of robot. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/gemini-robotics/)
+
+- **Harness VLA**, Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents. [![arXiv](https://img.shields.io/badge/arXiv-2607.08448-b31b1b.svg)](https://arxiv.org/abs/2607.08448) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://harnessvla.github.io)
+
+- **CaP-X**, CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2603.22435-b31b1b.svg)](https://arxiv.org/abs/2603.22435) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://capgym.github.io)
+
+- **Dream2Flow**, Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow. [![arXiv](https://img.shields.io/badge/arXiv-2512.24766-b31b1b.svg)](https://arxiv.org/abs/2512.24766) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dream2flow.github.io)
+
+- **ReKep**, ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2409.01652-b31b1b.svg)](https://arxiv.org/abs/2409.01652) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rekep-robot.github.io)
+
+- **VoxPoser**, VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models. [![arXiv](https://img.shields.io/badge/arXiv-2307.05973-b31b1b.svg)](https://arxiv.org/abs/2307.05973) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://voxposer.github.io)
+
+- [⭐️] **Code as Policies**, Code as Policies: Language Model Programs for Embodied Control. [![arXiv](https://img.shields.io/badge/arXiv-2209.07753-b31b1b.svg)](https://arxiv.org/abs/2209.07753) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://code-as-policies.github.io)
+
+- [⭐️] **Zero-Shot Planner**, Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents. [![arXiv](https://img.shields.io/badge/arXiv-2201.07207-b31b1b.svg)](https://arxiv.org/abs/2201.07207) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wenlonghuang.com/language-planner/)
 
 ## Policies
 
@@ -556,27 +577,6 @@ Code-as-Policy (CaP) methods use Large Language Models (LLMs) agentic system as 
 
 - [⭐️] **EgoVLA**, EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos. [![arXiv](https://img.shields.io/badge/arXiv-2507.12440-b31b1b.svg)](https://arxiv.org/abs/2507.12440) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rchalyang.github.io/EgoVLA/)
 
-## Code as Policy
-
-- **Show-Harness**, Show-Harness: Just a VLM Agent Can Play Robots. [![arXiv](https://img.shields.io/badge/arXiv-2609.10522-b31b1b.svg)](https://arxiv.org/abs/2609.10522) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://showlab.github.io/Show-Harness/)
-
-- **OpenETA**, ETA: A New Agentic Paradigm for Embodied Tasks. [![arXiv](https://img.shields.io/badge/arXiv-2608.03924-b31b1b.svg)](https://arxiv.org/abs/2608.03924) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://openmoss.ai/OpenETA/)
-
-- [⭐️] **Gemini Robotics 2**, Gemini Robotics 2: The intelligence layer to power any kind of robot. [![Website](https://img.shields.io/badge/Website-Link-blue)](https://deepmind.google/models/gemini-robotics/)
-
-- **Harness VLA**, Harness VLA: Steering Frozen VLAs into Reliable Manipulation Primitives via Memory-Guided Agents. [![arXiv](https://img.shields.io/badge/arXiv-2607.08448-b31b1b.svg)](https://arxiv.org/abs/2607.08448) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://harnessvla.github.io)
-
-- **CaP-X**, CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2603.22435-b31b1b.svg)](https://arxiv.org/abs/2603.22435) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://capgym.github.io)
-
-- **Dream2Flow**, Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow. [![arXiv](https://img.shields.io/badge/arXiv-2512.24766-b31b1b.svg)](https://arxiv.org/abs/2512.24766) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dream2flow.github.io)
-
-- **ReKep**, ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2409.01652-b31b1b.svg)](https://arxiv.org/abs/2409.01652) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://rekep-robot.github.io)
-
-- **VoxPoser**, VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models. [![arXiv](https://img.shields.io/badge/arXiv-2307.05973-b31b1b.svg)](https://arxiv.org/abs/2307.05973) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://voxposer.github.io)
-
-- [⭐️] **Code as Policies**, Code as Policies: Language Model Programs for Embodied Control. [![arXiv](https://img.shields.io/badge/arXiv-2209.07753-b31b1b.svg)](https://arxiv.org/abs/2209.07753) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://code-as-policies.github.io)
-
-- [⭐️] **Zero-Shot Planner**, Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents. [![arXiv](https://img.shields.io/badge/arXiv-2201.07207-b31b1b.svg)](https://arxiv.org/abs/2201.07207) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://wenlonghuang.com/language-planner/)
 
 ## Survey
 
