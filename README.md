@@ -2,7 +2,7 @@
 
 # 🤖 Awesome VLA & WAM
 
-**📜 A Curated List of Vision-Language-Action (VLA) and World Action Models (WAM) Research and Beyond** </br>
+**📜 A Curated List of Vision-Language-Action (VLA) and World Action Models (WAM) and Robotic Agentics Research and Beyond** </br>
 
 <p align="center">
   <img src="awesome-vla-wam.jpg" alt="Awesome VLA & WAM" width="100%" style="border-radius: 15px; box-shadow: 0 4px 24px rgba(0,0,0,.1); margin: 5px 0;">
