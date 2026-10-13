@@ -594,6 +594,8 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 ## Robotics Datasets
 
+- **RoboQuest**, RoboQuest: Generalist Physical Agents that Search, Inspect and Test. [![arXiv](https://img.shields.io/badge/arXiv-2610.10388-b31b1b.svg)](https://arxiv.org/abs/2610.10388) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://huggingface.co/datasets/declare-lab/RoboQuest)
+
 - [⭐️] **ABC-130k**, Scalable Behavior Cloning with Open Data, Training, and Evaluation. [![arXiv](https://img.shields.io/badge/arXiv-2606.27375-b31b1b.svg)](https://arxiv.org/abs/2606.27375) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://abc.bot)
 
 - **GM100**, The Great March 100: 100 Detail-oriented Tasks for Evaluating Embodied AI Agents. [![arXiv](https://img.shields.io/badge/arXiv-2601.11421-b31b1b.svg)](https://arxiv.org/abs/2601.11421) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.rhos.ai/research/gm-100)
@@ -643,6 +645,8 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 
 ## Benchmark / Environment
+
+- **RoboQuest**, RoboQuest: Generalist Physical Agents that Search, Inspect and Test. [![arXiv](https://img.shields.io/badge/arXiv-2610.10388-b31b1b.svg)](https://arxiv.org/abs/2610.10388) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://declare-lab.github.io/RoboQuest/)
 
 - **RoboDojo**, RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies. [![arXiv](https://img.shields.io/badge/arXiv-2607.04434-b31b1b.svg)](https://arxiv.org/abs/2607.04434) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robodojo-benchmark.com)
 
