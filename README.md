@@ -505,6 +505,8 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 - **LBM**, A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2507.05331-b31b1b.svg)](https://arxiv.org/abs/2507.05331) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://toyotaresearchinstitute.github.io/lbm1/)
 
+- **TactileAloha**, TactileAloha: Learning Bimanual Manipulation With Tactile Sensing. [![Paper](https://img.shields.io/badge/Paper-Link-blue)](https://doi.org/10.1109/LRA.2025.3585396) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://guningquan.github.io/TactileAloha/)
+
 - **Adapt Your Body**, Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning. [![arXiv](https://img.shields.io/badge/arXiv-2506.23944-b31b1b.svg)](https://arxiv.org/abs/2506.23944v1)
 
 - **RDP**, Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2503.02881-b31b1b.svg)](https://arxiv.org/abs/2503.02881) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://reactive-diffusion-policy.github.io)
