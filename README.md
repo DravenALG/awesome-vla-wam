@@ -467,6 +467,10 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 ## Robotic Agentics
 
+- **PhysEvo**, PhysEvo: Astra Can Act, Let It. [![arXiv](https://img.shields.io/badge/arXiv-2610.08995-b31b1b.svg)](https://arxiv.org/abs/2610.08995) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://anonymous-report-777.github.io/)
+
+- **PyRUA-Lean**, Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens. [![arXiv](https://img.shields.io/badge/arXiv-2610.01939-b31b1b.svg)](https://arxiv.org/abs/2610.01939) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://dagroup-pku.github.io/PyRUA-Lean/)
+
 - **Spotter**, Spotter: Let the Embodied Model Lead, and the VLM Reflect for It. [![arXiv](https://img.shields.io/badge/arXiv-2609.36808-b31b1b.svg)](https://arxiv.org/abs/2609.36808) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://zqc3117.github.io/Spotter/)
 
 - [⭐️] **Show-Harness**, Show-Harness: Just a VLM Agent Can Play Robots. [![arXiv](https://img.shields.io/badge/arXiv-2609.10522-b31b1b.svg)](https://arxiv.org/abs/2609.10522) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://showlab.github.io/Show-Harness/)
