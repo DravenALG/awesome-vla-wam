@@ -30,7 +30,7 @@
 - 🦾 [Policies](#policies)
 
 **Locomotion**
-- 🌐 [Locomotion](#locomotion)
+- 🚶 [Locomotion](#locomotion)
 
 **Latent Action Models (LAM)**
 - 🧭 [Latent Action Models](#latent-action-models)
