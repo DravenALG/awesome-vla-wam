@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Awesome VLA & WAM & Agentic & Loco
+# 🤖 Awesome VLA & WAM & Agentic & Locomotion
 
 **📜 A Curated List of Vision-Language-Action (VLA) and World Action Models (WAM) and Robotic Agentics & Locomotion and Beyond** </br>
 
