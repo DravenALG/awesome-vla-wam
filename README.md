@@ -14,7 +14,7 @@
 
 ## Overview
 - 🎯 [Aim](#aim)
-- 📚 [VLA Definition](#vla-definition) | [WAM Definition](#wam-definition) | [Robotic Agentics Definition](#robotic-agentics-definition) | [Policy Definition](#policy-definition) | [LAM Definition](#lam-definition) | [HAP Definition](#hap-definition)
+- 📚 [VLA Definition](#vla-definition) | [WAM Definition](#wam-definition) | [Robotic Agentics Definition](#robotic-agentics-definition) | [Policy Definition](#policy-definition) | [Locomotion Definition](#locomotion-definition) | [LAM Definition](#lam-definition) | [HAP Definition](#hap-definition)
 
 **Vision-Language-Action (VLA) Models**
 - 🧠 [VLA Models](#vla-models)
@@ -23,17 +23,20 @@
 - 🌌 [World Models](#world-models)
 - 🌍 [World Action Models](#world-action-models)
 
+**Robotic Agentics**
+- 🌐 [Robotic Agentics](#robotic-agentics)
+
 **Policies**
 - 🦾 [Policies](#policies)
+
+**Locomotion**
+- 🌐 [Locomotion](#locomotion)
 
 **Latent Action Models (LAM)**
 - 🧭 [Latent Action Models](#latent-action-models)
 
 **Human Action Pretraining (HAP)**
 - 💪 [Human Action Pretraining](#human-action-pretraining)
-
-**Robotic Agentics**
-- 🌐 [Robotic Agentics](#robotic-agentics)
 
 **Resources**
 - 🔍 [Survey](#survey)
@@ -74,6 +77,10 @@ Robotic Agentics refers to a class of robot policies that use an Agentic Harness
 In its broadest sense, a robot policy refers to any model that predicts actions, including VLAs and WAMs. In this repository, however, the Policy category specifically refers to robot policies trained primarily from scratch on robot data for action prediction, without relying on pretrained VLMs or explicit visual (2D/Video/3D) generation pretraining. A representative example is Diffusion Policy.
 
 - [⭐️] **Diffusion Policy**, Diffusion Policy: Visuomotor Policy Learning via Action Diffusion. [![arXiv](https://img.shields.io/badge/arXiv-2303.04137-b31b1b.svg)](https://arxiv.org/abs/2303.04137) [![Website](https://img.shields.io/badge/Website-Link-blue)](http://diffusion-policy.cs.columbia.edu)
+
+## Locomotion Definition
+
+Locomotion refers here to algorithms and policies that control a robot's legs to maintain balance and move stably. Its reward objectives are relatively explicit, such as avoiding falls and tracking a target velocity, so locomotion policies are commonly trained with reinforcement learning (RL). This differs from many manipulation policies, including VLAs and WAMs, which rely heavily on imitation learning from demonstrations.
 
 ## LAM Definition
 
@@ -556,6 +563,16 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 - **SafeDAgger**, Query-Efficient Imitation Learning for End-to-End Autonomous Driving. [![arXiv](https://img.shields.io/badge/arXiv-1605.06450-b31b1b.svg)](https://arxiv.org/abs/1605.06450)
 
 - **DAgger**, A Reduction of Imitation Learning and Structured Prediction to No-Regret Online Learning. [![arXiv](https://img.shields.io/badge/arXiv-1011.0686-b31b1b.svg)](https://arxiv.org/abs/1011.0686)
+
+## Locomotion
+
+- [⭐️] **SuperMimic**, SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model. [![arXiv](https://img.shields.io/badge/arXiv-2610.28480-b31b1b.svg)](https://arxiv.org/abs/2610.28480) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://supermimic.github.io/)
+
+- **UniAct**, UniAct: Unified Motion Generation and Action Streaming for Humanoid Robots. [![arXiv](https://img.shields.io/badge/arXiv-2512.24321-b31b1b.svg)](https://arxiv.org/abs/2512.24321) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://jnnan.github.io/uniact/)
+
+- [⭐️] **SONIC**, SONIC: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control. [![arXiv](https://img.shields.io/badge/arXiv-2511.07820-b31b1b.svg)](https://arxiv.org/abs/2511.07820) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://nvlabs.github.io/GEAR-SONIC/)
+
+- [⭐️] **DeepMimic**, DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills. [![arXiv](https://img.shields.io/badge/arXiv-1804.02717-b31b1b.svg)](https://arxiv.org/abs/1804.02717) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://xbpeng.github.io/projects/DeepMimic/index.html)
 
 ## Latent Action Models
 
