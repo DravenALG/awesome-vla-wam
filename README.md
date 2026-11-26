@@ -310,6 +310,16 @@ Human Action Pretraining (HAP) methods pretrain robot policies on human behavior
 
 ## World Action Models
 
+- **FoveaWAM**, FoveaWAM: Role-Aware 4D World-Action Modeling for Dynamic Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2611.31705-b31b1b.svg)](https://arxiv.org/abs/2611.31705) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://foveawam.github.io/)
+
+- **MAWAM**, MAWAM: A Multi-Agent World-Action Model for Coordinated Manipulation. [![arXiv](https://img.shields.io/badge/arXiv-2611.25105-b31b1b.svg)](https://arxiv.org/abs/2611.25105) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://research.nvidia.com/labs/lpr/mawam/)
+
+- **CloudRobo-WM**, CloudRobo-WM: A Simple Multi-Modal World Model for Robotic Manipulation. [![Paper](https://img.shields.io/badge/Paper-Link-blue)](https://github.com/Barry-Liang/CloudRobo-WM/blob/main/Cloudrobo_WM_20261113.pdf) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://www.huaweicloud.com/product/cloudrobo.html)
+
+- **VPP2**, Video Prediction Policy 2: Predict Better, Act Better. [![arXiv](https://img.shields.io/badge/arXiv-2610.10270-b31b1b.svg)](https://arxiv.org/abs/2610.10270) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robert-gyj.github.io/video-prediction-policy-2/)
+
+- **OpenWAM**, OpenWAM: An Open Framework for Composable World-Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2610.07922-b31b1b.svg)](https://arxiv.org/abs/2610.07922) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://openwam.stanford.edu/)
+
 - **LeWAM**, Latent Evolving World Action Models. [![arXiv](https://img.shields.io/badge/arXiv-2609.27455-b31b1b.svg)](https://arxiv.org/abs/2609.27455) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://github.com/XuejiFang/LeWAM)
 
 - **Zero-WAM**, Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization. [![arXiv](https://img.shields.io/badge/arXiv-2608.26103-b31b1b.svg)](https://arxiv.org/abs/2608.26103) [![Website](https://img.shields.io/badge/Website-Link-blue)](https://robbyant-research.github.io/Zero-WAM/)
